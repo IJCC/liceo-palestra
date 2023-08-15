@@ -166,10 +166,10 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Conócenos</h2>
+           <h2>Valores</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Conócenos</li>
+            <li class="active">Valores</li>
           </ol>
          </div>
        </div>
