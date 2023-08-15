@@ -166,10 +166,10 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Eventos y Equipo de Entrenamiento</h2>
+           <h2>Brikan</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Eventos</li>
+            <li class="active">Brikan</li>
           </ol>
          </div>
        </div>
