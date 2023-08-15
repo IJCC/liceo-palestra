@@ -455,16 +455,16 @@
    </div>
  </section>
 
-  <!-- Start footer -->
-  <footer id="mu-footer">
+   <!-- Start footer -->
+   <footer id="mu-footer">
     <!-- start footer top -->
     <div class="mu-footer-top">
       <div class="container">
         <div class="mu-footer-top-area">
           <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="col-lg-4 col-md-4 col-sm-4">
               <div class="mu-footer-widget">
-                <h4>Information</h4>
+                <h4>Información</h4>
                 <ul>
                   <li><a href="#">About Us</a></li>
                   <li><a href="">Features</a></li>
@@ -475,9 +475,9 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="col-lg-4 col-md-4 col-sm-4">
               <div class="mu-footer-widget">
-                <h4>Student Help</h4>
+                <h4>Estudiantes</h4>
                 <ul>
                   <li><a href="">Get Started</a></li>
                   <li><a href="#">My Questions</a></li>
@@ -487,7 +487,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-3">
+            <!--<div class="col-lg-3 col-md-3 col-sm-3">
               <div class="mu-footer-widget">
                 <h4>News letter</h4>
                 <p>Get latest update, news & academic offers</p>
@@ -496,15 +496,15 @@
                   <button class="mu-subscribe-btn" type="submit">Subscribe!</button>
                 </form>               
               </div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-3">
+            </div>-->
+            <div class="col-lg-4 col-md-4 col-sm-4">
               <div class="mu-footer-widget">
-                <h4>Contact</h4>
+                <h4>Contacto</h4>
                 <address>
-                  <p>P.O. Box 320, Ross, California 9495, USA</p>
-                  <p>Phone: (415) 453-1568 </p>
-                  <p>Website: www.markups.io</p>
-                  <p>Email: info@markups.io</p>
+                  <p>C10-b, x 25 colonia vergel 2 97173 Mérida, México</p>
+                  <p>Teléfono: (999) 241 4324 </p>
+                  <p>Página Web: www.liceo-palestra.com.mx</p>
+                  <p>Email: palestra.amd@gmail.com</p>
                 </address>
               </div>
             </div>
@@ -517,14 +517,13 @@
     <div class="mu-footer-bottom">
       <div class="container">
         <div class="mu-footer-bottom-area">
-          <p>&copy; All Right Reserved. Designed by <a href="http://www.markups.io/" rel="nofollow">MarkUps.io</a></p>
+          <?php echo date('Y'); ?>  &copy; Copyright <strong><span>Liceo-Palestra</span></strong>.Todos los derechos reservados.
         </div>
       </div>
     </div>
     <!-- end footer bottom -->
   </footer>
   <!-- End footer -->
-
 
 
 
