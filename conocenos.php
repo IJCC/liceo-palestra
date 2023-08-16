@@ -197,7 +197,7 @@
                           </figcaption>-->
                         </figure>
                         <div class="mu-latest-course-single-content">
-                          <h2><a href="#">Academia Liceo-Palestra</a></h2>
+                          <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
                           <!--<h4>Course Information</h4>
                           <ul>
                             <li> <span>Course Price</span> <span>$250</span></li>
@@ -267,28 +267,53 @@
                           </div>-->
                           <h4>¿Que beneficios obtengo?</h4>
                           <blockquote>
-                            <p>Salud</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Salud</p>
+                            <p>Comienzas por ganar cardio, resistencia, fuerza, potencia, perdida de peso, reducción del
+                               estrés, tonificación del cuerpo, esto por mencionar algunos, y aunque parezca increíble, 
+                               estos beneficios los comienzas a sentir desde del primer día de tu entrenamiento.</p>
                           </blockquote>
                           <blockquote>
-                            <p>Social</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Social</p>
+                            <p>Una de las muchas ventajas de practicar artes marciales es la de interactuar con 
+                              diferentes tipos de personalidades, pesos, estaturas, filosofías de vida y culturas, 
+                              te permitirás expandir tu círculo social o incluso establecer amistades duraderas.</p>
                           </blockquote>
                           <blockquote>
-                            <p>Valor del respeto</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Valor del respeto</p>
+                            <p>En disciplinas como el kickboxing o el karate, existen rangos (cintas) según la 
+                               experiencia y tiempo de práctica de cada alumno. Este sistema de jerarquías es lo que 
+                              fortalece el sentido del respeto hacia nuestros superiores y personas mayores.</p>
+                            <p>Es muy gratificante finalmente recibir ese deseado ascenso después de meses o incluso años
+                               de entrenamiento. Muchas academias entregan diplomas, el cual podrás anexar a tu 
+                               currículum personal como una herramienta de vida más.</p>
                           </blockquote>
                           <blockquote>
-                            <p>Fomenta la autoestima</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Fomenta la autoestima</p>
+                            <p>Entre los muchos beneficios de practicar artes marciales se encuentra el que saber 
+                               defenderte te empodera emocionalmente. Serás una persona más decidida  y confiada, capaz 
+                               de manejar situaciones de estrés con mayor facilidad.
+
+                               La capacidad de protegerte genera un cambio de actitud automático, y las personas a tu
+                               alrededor podrán percibirlo de manera positiva.</p>
                           </blockquote>
                           <blockquote>
-                            <p>Diversión</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Diversión</p>
+                            <p>Siempre y cuando la actividad sea guiada y desarrollada responsablemente por 
+                               el Sensei o Maestro (y colegas de entrenamiento), ten por seguro que quedarás 
+                               profundamente cautivado y entretenido por lo dinámico de cada sesión en cualquiera 
+                               de las diferentes opciones que mencionamos a lo largo del texto. </p>
                           </blockquote>
                           <blockquote>
-                            <p>Una forma de vida</p>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                            <p class="title-negrita">Una forma de vida</p>
+                            <p>Liceo-Palestra te ofrece no solo conocer o practicar una disciplina, te ofrece una
+                               carrera profesional al final de camino, como: Maestro / Instructor, ya que  recibes 
+                               Certificación oficial, avalado y respaldado  por la Asociación de Artes Marciales 
+                               Mixtas de Contacto Completo del Edo. de Yucatán. Lo cual te permitirá desarrollarte  
+                               profesionalmente en cualquier institución deportiva, Dojo o academia.
+
+                               Sin duda los beneficios son muchos, pero creemos mencionar los mas importantes, 
+                               la experiencia Liceo-Palestra esta pensada y creada para aquel que desee vivir y 
+                               experimentar.. inténtalo, ¡no te arrepentirás!.</p>
                           </blockquote>
                         </div>
                       </div> 

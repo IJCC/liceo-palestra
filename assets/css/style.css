@@ -38,6 +38,10 @@ body {
   font-size: 16px;
   overflow-x: hidden;
 }
+.title-negrita{
+  font-weight: bold;
+  color: #4a0112;
+}
 
 .no-padding {
   padding: 0;
