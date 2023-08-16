@@ -176,7 +176,6 @@
      </div>
    </div>
  </section>
- <!-- End breadcrumb -->
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
@@ -185,92 +184,170 @@
             <div class="row">
               <div class="col-md-9">
                 <!-- start course content container -->
-                <div class="mu-course-container mu-course-details">
+                <div class="mu-course-container mu-blog-single">
                   <div class="row">
                     <div class="col-md-12">
-                      <div class="mu-latest-course-single">
-                        <figure class="mu-latest-course-img">
-                          <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <figcaption class="mu-latest-course-imgcaption">
-                            <a href="#">Drawing</a>
-                            <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>
+                      <article class="mu-blog-single-item">
+                        <figure class="mu-blog-single-img">
+                          <a href="#"><img alt="img" src="assets/img/blog/blog-3.jpg"></a>
+                          <figcaption class="mu-blog-caption">
+                            <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                          </figcaption>                      
                         </figure>
-                        <div class="mu-latest-course-single-content">
-                          <h2><a href="#">Lorem ipsum dolor sit amet.</a></h2>
-                          <h4>Course Information</h4>
-                          <ul>
-                            <li> <span>Course Price</span> <span>$250</span></li>
-                            <li> <span>Place</span> <span>California,USA</span></li>
-                            <li> <span>Total Students</span> <span>800+</span></li>
-                            <li> <span>Course Duration</span> <span>4 Weeks</span></li>
-                            <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>
-                          <h4>Description</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo est itaque vero porro quasi illo ex consequuntur ad animi commodi, ipsam provident voluptas vel adipisci. Minima repellendus vel est, sequi labore quo ipsa voluptatem officiis ex fuga nemo quas. Eligendi inventore ducimus omnis, maxime, alias accusantium similique minus! Labore facilis qui, sunt, ipsam consectetur minus sapiente saepe numquam magnam quidem.</p>
-                          <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, placeat, ipsa. Modi sed quibusdam vel autem fugit, eaque, iste. Excepturi fugit dignissimos suscipit dolor perferendis debitis magni sed, quia ab.</p>
-                          </blockquote>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea consequatur doloremque deleniti error ullam, accusamus vel est alias, sit. Similique voluptas aliquid, excepturi accusamus, sequi ducimus incidunt mollitia non.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi saepe possimus doloribus quod quibusdam officia suscipit qui illum nemo itaque, porro ipsam tempore enim error eius quia, culpa. Reprehenderit consequuntur voluptatem dolorum magni natus inventore molestias veritatis eos aspernatur repudiandae.</p>
-                          <h4>Course Outline</h4>
-                          <div class="table-responsive">
-                            <table class="table">
-                            <thead>
-                              <tr>
-                                <th> Title </th>
-                                <th> Course Time </th>
-                                <th> Spent Time </th>
-                                <th> Status </th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td> 1. Topic 1 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 2. Topic 2 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 3. Topic 3 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 4. Topic 4 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 5. Topic 5 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Waiting </td>
-                              </tr>
-                              <tr>
-                                <td> 6. Topic 6 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> - </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          </div>
+                        <div class="mu-blog-meta">
+                          <a href="#">By Admin</a>
+                          <a href="#">02 June 2016</a>
+                          <span><i class="fa fa-comments-o"></i>87</span>
                         </div>
-                      </div> 
+                        <div class="mu-blog-description">
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus autem molestias nostrum eius optio et rem, cum voluptatibus aperiam soluta reiciendis quae nisi, debitis totam harum nulla! Voluptatem commodi quis, atque labore, sapiente tempora temporibus, repellendus laboriosam sunt aut dolores laborum libero? Laudantium non, enim, repellat recusandae quisquam aperiam hic amet corporis ipsam. Similique velit ipsa, quasi assumenda consequuntur earum.</p>
+                          <blockquote>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas numquam quis obcaecati, a sed ad aut totam fugiat, cumque quasi!</p>                            
+                          </blockquote>
+                          <h1>Lorem ipsum dolor sit amet.</h1>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam distinctio voluptatibus sequi sint, in. Soluta alias sunt, voluptates necessitatibus neque, perspiciatis, quos doloribus quae non tempore ut qui facere nulla.</p>
+                          <h2>Lorem ipsum dolor sit amet, consectetur.</h2>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus dolor totam architecto voluptatum, unde non ipsum officia adipisci, eos error, expedita corporis laudantium esse. Mollitia minus, molestias doloremque! Earum, fuga!</p>
+                          <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus omnis laudantium magni ut voluptatum, asperiores consequatur ducimus tempore enim possimus aliquid eius aliquam nam quasi itaque officiis debitis ad minima.</p>
+                          <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum officia iure voluptas deleniti tempora eum ipsa explicabo tenetur laborum doloribus, perferendis quam enim molestiae. Officia numquam harum quam blanditiis sapiente!</p>
+                          <ul>
+                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                            <li>Obcaecati quas earum minima perspiciatis corrupti quasi cum.</li>
+                            <li>Vero mollitia voluptas libero praesentium ut dolor, labore.</li>
+                            <li>Eius, odit, incidunt. Voluptates iusto, a sapiente reiciendis?</li>
+                            <li>Quos, tenetur voluptas, dolore sapiente nisi repellat odio.</li>
+                          </ul>
+                          
+                        </div>
+                        <!-- start blog post tags -->
+                        <div class="mu-blog-tags">
+                          <ul class="mu-news-single-tagnav">
+                            <li>TAGS :</li>
+                            <li><a href="#">Science,</a></li>
+                            <li><a href="#">English,</a></li>
+                            <li><a href="#">Sports,</a></li>
+                            <li><a href="#">Health</a></li>
+                          </ul>
+                        </div>
+                        <!-- End blog post tags -->
+                        <!-- start blog social share -->
+                        <div class="mu-blog-social">
+                          <ul class="mu-news-social-nav">
+                            <li>SOCIAL SHARE :</li>
+                            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
+                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
+                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
+                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+                          </ul>
+                        </div>
+                        <!-- End blog social share -->
+                      </article>
                     </div>                                   
                   </div>
                 </div>
                 <!-- end course content container -->
+                <!-- start blog navigation -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="mu-blog-single-navigation">
+                      <a class="mu-blog-prev" href="#"><span class="fa fa-angle-left"></span>Prev</a>
+                      <a class="mu-blog-next" href="#">Next<span class="fa fa-angle-right"></span></a>
+                    </div>
+                  </div>
+                </div>
+                <!-- end blog navigation -->
+                <!-- start related course item -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="mu-related-item">
+                      <h3>Related News</h3>
+                      <div class="mu-related-item-area">
+                        <div id="mu-related-item-slide">
+                          <div class="col-md-6">
+                            <article class="mu-blog-single-item">
+                              <figure class="mu-blog-single-img">
+                                <a href="#"><img alt="img" src="assets/img/blog/blog-1.jpg"></a>
+                                <figcaption class="mu-blog-caption">
+                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                                </figcaption>                      
+                              </figure>
+                              <div class="mu-blog-meta">
+                                <a href="#">By Admin</a>
+                                <a href="#">02 June 2016</a>
+                                <span><i class="fa fa-comments-o"></i>87</span>
+                              </div>
+                              <div class="mu-blog-description">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
+                                <a href="#" class="mu-read-more-btn">Read More</a>
+                              </div>
+                            </article>
+                          </div>
+                          <div class="col-md-6">
+                            <article class="mu-blog-single-item">
+                              <figure class="mu-blog-single-img">
+                                <a href="#"><img alt="img" src="assets/img/blog/blog-2.jpg"></a>
+                                <figcaption class="mu-blog-caption">
+                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                                </figcaption>                      
+                              </figure>
+                              <div class="mu-blog-meta">
+                                <a href="#">By Admin</a>
+                                <a href="#">02 June 2016</a>
+                                <span><i class="fa fa-comments-o"></i>87</span>
+                              </div>
+                              <div class="mu-blog-description">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
+                                <a href="#" class="mu-read-more-btn">Read More</a>
+                              </div>
+                            </article>
+                          </div>
+                          <div class="col-md-6">
+                           <article class="mu-blog-single-item">
+                              <figure class="mu-blog-single-img">
+                                <a href="#"><img alt="img" src="assets/img/blog/blog-3.jpg"></a>
+                                <figcaption class="mu-blog-caption">
+                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                                </figcaption>                      
+                              </figure>
+                              <div class="mu-blog-meta">
+                                <a href="#">By Admin</a>
+                                <a href="#">02 June 2016</a>
+                                <span><i class="fa fa-comments-o"></i>87</span>
+                              </div>
+                              <div class="mu-blog-description">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
+                                <a href="#" class="mu-read-more-btn">Read More</a>
+                              </div>
+                            </article>
+                          </div>
+                          <div class="col-md-6">
+                            <article class="mu-blog-single-item">
+                              <figure class="mu-blog-single-img">
+                                <a href="#"><img alt="img" src="assets/img/blog/blog-1.jpg"></a>
+                                <figcaption class="mu-blog-caption">
+                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                                </figcaption>                      
+                              </figure>
+                              <div class="mu-blog-meta">
+                                <a href="#">By Admin</a>
+                                <a href="#">02 June 2016</a>
+                                <span><i class="fa fa-comments-o"></i>87</span>
+                              </div>
+                              <div class="mu-blog-description">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
+                                <a href="#" class="mu-read-more-btn">Read More</a>
+                              </div>
+                            </article>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- end start related course item -->
                 <!-- start related course item -->
                 <div class="row">
                   <div class="col-md-12">

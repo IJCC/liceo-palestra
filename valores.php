@@ -191,30 +191,30 @@
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
                           <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <figcaption class="mu-latest-course-imgcaption">
+                          <!--<figcaption class="mu-latest-course-imgcaption">
                             <a href="#">Drawing</a>
                             <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>
+                          </figcaption>-->
                         </figure>
                         <div class="mu-latest-course-single-content">
-                          <h2><a href="#">Lorem ipsum dolor sit amet.</a></h2>
-                          <h4>Course Information</h4>
+                          <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
+                          <!--<h4>Course Information</h4>
                           <ul>
                             <li> <span>Course Price</span> <span>$250</span></li>
                             <li> <span>Place</span> <span>California,USA</span></li>
                             <li> <span>Total Students</span> <span>800+</span></li>
                             <li> <span>Course Duration</span> <span>4 Weeks</span></li>
                             <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>
-                          <h4>Description</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo est itaque vero porro quasi illo ex consequuntur ad animi commodi, ipsam provident voluptas vel adipisci. Minima repellendus vel est, sequi labore quo ipsa voluptatem officiis ex fuga nemo quas. Eligendi inventore ducimus omnis, maxime, alias accusantium similique minus! Labore facilis qui, sunt, ipsam consectetur minus sapiente saepe numquam magnam quidem.</p>
+                          </ul>-->
+                          <h4>Valores</h4>
+                          <p>Liceo-Palestra es una academia joven, abre sus puertas el 6 de Enero del 2020.  La academia esta conformada por la Subdirectora:  Sensei Mariel Baas Alfaro y el Director: Profesor: Karlo Réne Sánchez Bojorquez. Ambos graduados de la Academia Coliseum Artes Marciales & box, ubicada en la colonia  Xoclan.</p>
+                          <p>Ambos maestros poseen el grado de Cinturón Negro Kickboxing.</p>
                           <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, placeat, ipsa. Modi sed quibusdam vel autem fugit, eaque, iste. Excepturi fugit dignissimos suscipit dolor perferendis debitis magni sed, quia ab.</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
                           </blockquote>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea consequatur doloremque deleniti error ullam, accusamus vel est alias, sit. Similique voluptas aliquid, excepturi accusamus, sequi ducimus incidunt mollitia non.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi saepe possimus doloribus quod quibusdam officia suscipit qui illum nemo itaque, porro ipsam tempore enim error eius quia, culpa. Reprehenderit consequuntur voluptatem dolorum magni natus inventore molestias veritatis eos aspernatur repudiandae.</p>
-                          <h4>Course Outline</h4>
+                          <p>A sus 3 meses de apertura la academia, recibió una gran aceptación por parte de los alumnos, sin embargo sin saber: seria un año difícil para todo el mundo, motivo que ya conocemos todos. La pandemia obliga cerrar sus puertas a todo negocio, la academia no fue la excepción. Pese a todo lo que se vivió afortunadamente la academia pudo sobrevivir a esta situación y reabre sus puertas en Octubre del mismo año, retomando lo que desde un principio se había perdido. </p>
+                          <p>En la actualidad la academia tiene sus puertas abiertas, los eventos comienzan a retomarse de nuevo poco a poco y los alumnos ya comienzan a vivir las experiencias que la academia les ofrece, como: exámenes de grado, algunos torneos, etc.</p>
+                          <!--<h4>Course Outline</h4>
                           <div class="table-responsive">
                             <table class="table">
                             <thead>
@@ -264,13 +264,151 @@
                               </tr>
                             </tbody>
                           </table>
-                          </div>
+                          </div>-->
+                          <h4>Nuestros Valores</h4>
+                          <blockquote>
+                            <p class="title-negrita">Salud</p>
+                            <p>Comienzas por ganar cardio, resistencia, fuerza, potencia, perdida de peso, reducción del
+                               estrés, tonificación del cuerpo, esto por mencionar algunos, y aunque parezca increíble, 
+                               estos beneficios los comienzas a sentir desde del primer día de tu entrenamiento.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Social</p>
+                            <p>Una de las muchas ventajas de practicar artes marciales es la de interactuar con 
+                              diferentes tipos de personalidades, pesos, estaturas, filosofías de vida y culturas, 
+                              te permitirás expandir tu círculo social o incluso establecer amistades duraderas.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Valor del respeto</p>
+                            <p>En disciplinas como el kickboxing o el karate, existen rangos (cintas) según la 
+                               experiencia y tiempo de práctica de cada alumno. Este sistema de jerarquías es lo que 
+                              fortalece el sentido del respeto hacia nuestros superiores y personas mayores.</p>
+                            <p>Es muy gratificante finalmente recibir ese deseado ascenso después de meses o incluso años
+                               de entrenamiento. Muchas academias entregan diplomas, el cual podrás anexar a tu 
+                               currículum personal como una herramienta de vida más.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Fomenta la autoestima</p>
+                            <p>Entre los muchos beneficios de practicar artes marciales se encuentra el que saber 
+                               defenderte te empodera emocionalmente. Serás una persona más decidida  y confiada, capaz 
+                               de manejar situaciones de estrés con mayor facilidad.
+
+                               La capacidad de protegerte genera un cambio de actitud automático, y las personas a tu
+                               alrededor podrán percibirlo de manera positiva.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Diversión</p>
+                            <p>Siempre y cuando la actividad sea guiada y desarrollada responsablemente por 
+                               el Sensei o Maestro (y colegas de entrenamiento), ten por seguro que quedarás 
+                               profundamente cautivado y entretenido por lo dinámico de cada sesión en cualquiera 
+                               de las diferentes opciones que mencionamos a lo largo del texto. </p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Una forma de vida</p>
+                            <p>Liceo-Palestra te ofrece no solo conocer o practicar una disciplina, te ofrece una
+                               carrera profesional al final de camino, como: Maestro / Instructor, ya que  recibes 
+                               Certificación oficial, avalado y respaldado  por la Asociación de Artes Marciales 
+                               Mixtas de Contacto Completo del Edo. de Yucatán. Lo cual te permitirá desarrollarte  
+                               profesionalmente en cualquier institución deportiva, Dojo o academia.
+
+                               Sin duda los beneficios son muchos, pero creemos mencionar los mas importantes, 
+                               la experiencia Liceo-Palestra esta pensada y creada para aquel que desee vivir y 
+                               experimentar.. inténtalo, ¡no te arrepentirás!.</p>
+                          </blockquote>
                         </div>
                       </div> 
                     </div>                                   
                   </div>
                 </div>
                 <!-- end course content container -->
+                <!-- start related course item -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="mu-related-item">
+                  <h3>Related Courses</h3>
+                  <div class="mu-related-item-area">
+                    <div id="mu-related-item-slide">
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/2.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/3.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
                 <!-- start related course item -->
                 <div class="row">
                   <div class="col-md-12">
