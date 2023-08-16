@@ -191,30 +191,30 @@
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
                           <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <figcaption class="mu-latest-course-imgcaption">
+                          <!--<figcaption class="mu-latest-course-imgcaption">
                             <a href="#">Drawing</a>
                             <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>
+                          </figcaption>-->
                         </figure>
                         <div class="mu-latest-course-single-content">
-                          <h2><a href="#">Lorem ipsum dolor sit amet.</a></h2>
-                          <h4>Course Information</h4>
+                          <h2><a href="#">Academia Liceo-Palestra</a></h2>
+                          <!--<h4>Course Information</h4>
                           <ul>
                             <li> <span>Course Price</span> <span>$250</span></li>
                             <li> <span>Place</span> <span>California,USA</span></li>
                             <li> <span>Total Students</span> <span>800+</span></li>
                             <li> <span>Course Duration</span> <span>4 Weeks</span></li>
                             <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>
-                          <h4>Description</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo est itaque vero porro quasi illo ex consequuntur ad animi commodi, ipsam provident voluptas vel adipisci. Minima repellendus vel est, sequi labore quo ipsa voluptatem officiis ex fuga nemo quas. Eligendi inventore ducimus omnis, maxime, alias accusantium similique minus! Labore facilis qui, sunt, ipsam consectetur minus sapiente saepe numquam magnam quidem.</p>
+                          </ul>-->
+                          <h4>¿Quiénes somos?</h4>
+                          <p>Liceo-Palestra es una academia joven, abre sus puertas el 6 de Enero del 2020.  La academia esta conformada por la Subdirectora:  Sensei Mariel Baas Alfaro y el Director: Profesor: Karlo Réne Sánchez Bojorquez. Ambos graduados de la Academia Coliseum Artes Marciales & box, ubicada en la colonia  Xoclan.</p>
+                          <p>Ambos maestros poseen el grado de Cinturón Negro Kickboxing.</p>
                           <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, placeat, ipsa. Modi sed quibusdam vel autem fugit, eaque, iste. Excepturi fugit dignissimos suscipit dolor perferendis debitis magni sed, quia ab.</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
                           </blockquote>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea consequatur doloremque deleniti error ullam, accusamus vel est alias, sit. Similique voluptas aliquid, excepturi accusamus, sequi ducimus incidunt mollitia non.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi saepe possimus doloribus quod quibusdam officia suscipit qui illum nemo itaque, porro ipsam tempore enim error eius quia, culpa. Reprehenderit consequuntur voluptatem dolorum magni natus inventore molestias veritatis eos aspernatur repudiandae.</p>
-                          <h4>Course Outline</h4>
+                          <p>A sus 3 meses de apertura la academia, recibió una gran aceptación por parte de los alumnos, sin embargo sin saber: seria un año difícil para todo el mundo, motivo que ya conocemos todos. La pandemia obliga cerrar sus puertas a todo negocio, la academia no fue la excepción. Pese a todo lo que se vivió afortunadamente la academia pudo sobrevivir a esta situación y reabre sus puertas en Octubre del mismo año, retomando lo que desde un principio se había perdido. </p>
+                          <p>En la actualidad la academia tiene sus puertas abiertas, los eventos comienzan a retomarse de nuevo poco a poco y los alumnos ya comienzan a vivir las experiencias que la academia les ofrece, como: exámenes de grado, algunos torneos, etc.</p>
+                          <!--<h4>Course Outline</h4>
                           <div class="table-responsive">
                             <table class="table">
                             <thead>
@@ -264,7 +264,32 @@
                               </tr>
                             </tbody>
                           </table>
-                          </div>
+                          </div>-->
+                          <h4>¿Que beneficios obtengo?</h4>
+                          <blockquote>
+                            <p>Salud</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p>Social</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p>Valor del respeto</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p>Fomenta la autoestima</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p>Diversión</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p>Una forma de vida</p>
+                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
+                          </blockquote>
                         </div>
                       </div> 
                     </div>                                   
