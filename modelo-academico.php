@@ -242,8 +242,30 @@
                         <a href="#cerrar"></a>
                       <div id="modalContent">
                         <a href="#cerrar">X</a>
-                          <h1 style="color: #f7be68; text-align:center;">Políticas de privacidad</h1>
-                            <p style="text-align:center;">Contenido</p>
+                          <h1 style="color: #4a0112; text-align:center;">Exámenes Promoción de Grado</h1>
+                            <p style="">Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
+                            <p style="">Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
+                            surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
+
+                            <p style="">Los grados, que se distinguen por colores y son representados por cinturones, conforman un sistema que guía el progreso del alumno:</p>
+                            <p style="">
+                            <ol>
+                              <li>Blanco</li>
+                              <li>Amarillo</li>
+                              <li>Naranja</li>
+                              <li>Verde</li>
+                              <li>Azul</li>
+                              <li>Azul Avanzado</li>
+                              <li>Púrpura</li>
+                              <li>Rojo</li>
+                              <li>Rojo Avanzado</li>
+                              <li>Rojo Negro</li>
+                              <li>Negro</li>
+                            </ol>
+                          </p>
+                          <p style="">Los alumnos más jóvenes, conocidos como "Kids", tienen sus propias promociones intermedias. 
+                          Estas aplican solo dentro del rango de edad de 7 a 12 años y siguen un esquema similar al anterior.</p>
+                          <p style="text-align:center;">Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
                         </div>
                     </div>
                   <!--<img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">-->
