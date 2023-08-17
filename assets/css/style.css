@@ -1046,6 +1046,7 @@ img {
 
 .mu-blog-single-item {
   display: inline;
+  text-align: center;
   float: left;
   width: 100%;
 }
