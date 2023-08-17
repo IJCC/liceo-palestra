@@ -11,7 +11,6 @@
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
-    <link href="https://fonts.cdnfonts.com/css/dalek" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">   
     <!-- Slick slider -->
@@ -120,7 +119,6 @@
               </ul>-->
             </li>                 
             <li><a href="valores.php">Valores</a></li>
-            <li><a href="valores.php">Valores</a></li>
             <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
@@ -166,10 +164,10 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Valores</h2>
+           <h2>Grados</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Valores</li>
+            <li class="active">Grados</li>
           </ol>
          </div>
        </div>
@@ -191,22 +189,30 @@
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
                           <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <!--<figcaption class="mu-latest-course-imgcaption">
+                          <figcaption class="mu-latest-course-imgcaption">
                             <a href="#">Drawing</a>
                             <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>-->
+                          </figcaption>
                         </figure>
                         <div class="mu-latest-course-single-content">
-                          <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
-                          <!--<h4>Course Information</h4>
+                          <h2><a href="#">Lorem ipsum dolor sit amet.</a></h2>
+                          <h4>Course Information</h4>
                           <ul>
                             <li> <span>Course Price</span> <span>$250</span></li>
                             <li> <span>Place</span> <span>California,USA</span></li>
                             <li> <span>Total Students</span> <span>800+</span></li>
                             <li> <span>Course Duration</span> <span>4 Weeks</span></li>
                             <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>-->
-                          <!--<h4>Course Outline</h4>
+                          </ul>
+                          <h4>Description</h4>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo est itaque vero porro quasi illo ex consequuntur ad animi commodi, ipsam provident voluptas vel adipisci. Minima repellendus vel est, sequi labore quo ipsa voluptatem officiis ex fuga nemo quas. Eligendi inventore ducimus omnis, maxime, alias accusantium similique minus! Labore facilis qui, sunt, ipsam consectetur minus sapiente saepe numquam magnam quidem.</p>
+                          <blockquote>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, placeat, ipsa. Modi sed quibusdam vel autem fugit, eaque, iste. Excepturi fugit dignissimos suscipit dolor perferendis debitis magni sed, quia ab.</p>
+                          </blockquote>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea consequatur doloremque deleniti error ullam, accusamus vel est alias, sit. Similique voluptas aliquid, excepturi accusamus, sequi ducimus incidunt mollitia non.</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi saepe possimus doloribus quod quibusdam officia suscipit qui illum nemo itaque, porro ipsam tempore enim error eius quia, culpa. Reprehenderit consequuntur voluptatem dolorum magni natus inventore molestias veritatis eos aspernatur repudiandae.</p>
+                          <h4>Course Outline</h4>
                           <div class="table-responsive">
                             <table class="table">
                             <thead>
@@ -256,59 +262,6 @@
                               </tr>
                             </tbody>
                           </table>
-                          </div>-->
-                          <h4>Nuestros Valores</h4>
-                          <blockquote>
-                            <p class="title-negrita">Disciplina</p>
-                            <p>Creemos que la disciplina es la piedra angular del éxito en las artes marciales 
-                              y en la vida. Fomentamos la dedicación, la constancia y la autodisciplina en la 
-                              práctica de las técnicas y en la superación de los retos, reconociendo que el 
-                              camino del maestro es un camino de aprendizaje constante.</p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Respeto</p>
-                            <p>Valoramos el respeto mutuo y el trato amable entre todos los miembros del club. 
-                              Fomentamos la tolerancia, la cortesía y el respeto hacia los entrenadores, 
-                              compañeros de entrenamiento y el entorno en general. 
-                              Reconocemos que el respeto es fundamental en la relación entre maestro y discípulo
-                              , y en la construcción de una comunidad unida y armoniosa.</p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Superación Personal</p>
-                            <p>Creemos en el constante crecimiento y mejora personal como artista marcial
-                               y como ser humano. Motivamos a nuestros miembros a establecer metas 
-                               desafiantes y a trabajar arduamente para alcanzarlas, superándose 
-                               a sí mismos en cada entrenamiento y competición. Valoramos la perseverancia,
-                                la determinación y la mentalidad de crecimiento. </p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Camaradería</p>
-                            <p>Fomentamos un ambiente de camaradería y compañerismo, donde nuestros miembros 
-                              se apoyan mutuamente y construyen relaciones significativas. Valoramos la colaboración,
-                              el trabajo en equipo y la solidaridad entre los miembros del club, reconociendo que la
-                              unión hace la fuerza y que juntos podemos alcanzar metas más altas. </p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Ética</p>
-                            <p>Promovemos una conducta ética y responsable en la práctica de las artes marciales,
-                              incluyendo el respeto a las reglas y normas, la honestidad, la integridad y la 
-                              deportividad en todas las actividades del club. </p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Solidaridad</p>
-                            <p>En nuestra academia fomentamos el ambiente familiar y el apoyo mutuo en todo momento,
-                               dentro y fuera de las instalaciones. Nos preocupamos por el bienestar de todos nuestros
-                               alumnos y creemos en la importancia de formar una comunidad fuerte y unida. 
-                               Enseñamos a nuestros alumnos a ser solidarios con sus familiares, compañeros, 
-                               amigos y ayudar a quienes lo necesitan, creando así un ambiente positivo y de apoyo constante.</p> 
-
-                            <p>En la academia Liceo-Palestra, nos comprometemos a promover una cultura basada en estos
-                               valores, y a brindar un ambiente inclusivo, seguro y profesional para que nuestros miembros
-                               puedan desarrollar su potencial al máximo, alcanzar sus metas y disfrutar de una experiencia
-                               enriquecedora en su práctica de las artes marciales. </p>
-                          </blockquote>
-                          <div class="centrado">
-                            <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
                           </div>
                         </div>
                       </div> 
@@ -316,6 +269,95 @@
                   </div>
                 </div>
                 <!-- end course content container -->
+                <!-- start related course item -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="mu-related-item">
+                  <h3>Related Courses</h3>
+                  <div class="mu-related-item-area">
+                    <div id="mu-related-item-slide">
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/2.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/3.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a href="#">Drawing</a>
+                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a href="#" class="mu-course-details">Details</a>
+                              <span href="#" class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                  </div>
+                </div>
+                <!-- end start related course item -->
               </div>
               <div class="col-md-3">
                 <!-- start sidebar -->
