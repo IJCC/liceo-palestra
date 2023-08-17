@@ -119,16 +119,14 @@
               </ul>-->
             </li>                 
             <li><a href="valores.php">Valores</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelo Académico <span class="fa fa-angle-down"></span></a>
+            <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
+            <!--<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="grados.php">Grados</a></li>                
-                <li><a href="sparring.php">Taller Sparring</a></li>
-                <li><a href="club.php">Club de la Pelea</a></li>
-                <li><a href="brikan.php">Selección Brikan</a></li>
-                <li><a href="kids.php">Conexión Kids</a></li>                
-              </ul>
-            </li>
+                <li><a href="cursos.php">Archivo de cursos</a></li>                
+                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
+              </ul>-->
+            </li> 
             <li class=""><a href="eventos.php">Eventos y más</a></li>            
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
