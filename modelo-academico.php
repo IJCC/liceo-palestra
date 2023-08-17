@@ -220,97 +220,93 @@
     </div>
   </section>
   <!-- End about us -->
-        <!-- Start from blog -->
-
-<div class="container">
-<div class="row">
-  <div class="col-md-4"></div>
-  <div class="col-md-4">
-    <article class="mu-blog-single-item">
-        <figure class="mu-blog-single-img">
-            <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                <figcaption class="mu-blog-caption">
-                    <h3><a href="#">PROMOCIÓN DE GRADO</a></h3>
-                </figcaption>                      
-        </figure>
-        <div class="mu-blog-description">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-        </div>
-    </article>
-</div>
-  <div class="col-md-4"></div>
-</div>
-<br>
-  </div>
-</div>
-
+        <!-- Start features section -->
+  <section id="mu-features">
     <div class="container">
-        <div class="row ">
-
-        <div class="col-lg-3 col-md-6">
-            <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">TALLER DE SPARRING</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      
-                    </div>
-                  </article>
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="mu-features-area">
+            <!-- Start Title -->
+            <div class="mu-title">
+            </div>
+            <!-- End Title -->
+            <!-- Start features content -->
+            <div class="mu-features-content">
+              <div class="row">
+                <div class="col-lg-4 col-md-12">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">
+                  <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
+                    <h4>PROMOCIÓN DE GRADO</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/sparring.png" width="70px" alt="img">
+                    <h4>TALLER DE SPARRING</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" width="70px" alt="img">
+                    <h4>CLUB DE LA PELEA</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- End features content -->
+          </div>
+        </div>
+      </div>
     </div>
-
-    <div class="col-lg-3 col-md-6">
-    <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">CLUB DE LA PELEA</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      
-                    </div>
-                  </article>
-    </div>
-
-    <div class="col-lg-3 col-md-6">
-    <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">SELECCIÓN BRIKAN</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                      
-                    </div>
-                  </article>
-    </div>
-
-    <div class="col-lg-3 col-md-6">
-    <article class="mu-blog-single-item">
-                    <figure class="mu-blog-single-img">
-                      <a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>
-                      <figcaption class="mu-blog-caption">
-                        <h3><a href="#">CONEXIÓN KIDS</a></h3>
-                      </figcaption>                      
-                    </figure>
-                    <div class="mu-blog-description">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                     
-                    </div>
-    </article>
-    </div>
-      
-  </div>
-</div>
-</div>
+  </section>
+  <!-- End features section -->
   
+  <section id="mu-features">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          <div class="mu-features-area">
+            <!-- Start Title -->
+            <div class="mu-title">
+            </div>
+            <!-- End Title -->
+            <!-- Start features content -->
+            <div class="mu-features-content">
+              <div class="row">
+                <div class="col-lg-4 col-md-12">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
+                  <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
+                    <h4>SELECCIÓN BRIKAN</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="mu-single-feature">
+                  
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
+                    <h4>CONEXIÓN KIDS</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- End features content -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End features section -->  
+
 <br>
 <br>    
    <!-- Start footer -->
