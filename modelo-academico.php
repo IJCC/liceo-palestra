@@ -265,7 +265,8 @@
                           </p>
                           <p style="">Los alumnos más jóvenes, conocidos como "Kids", tienen sus propias promociones intermedias. 
                           Estas aplican solo dentro del rango de edad de 7 a 12 años y siguen un esquema similar al anterior.</p>
-                          <p style="text-align:center;">Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
+                          <p style="">Cada grado lleva consigo técnicas específicas y a medida que se avanza, 
+                          estas se vuelven más complejas. Cabe mencionar que cada grado también tiene niveles intermedios, que se asignan según el caso.</p>
                         </div>
                     </div>
                   <!--<img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">-->
@@ -353,18 +354,7 @@
           <br>  
         </div>
       </div>
-    </div>
-
-    <a href="#modal" title="Políticas de privacidad" class="btn"><img src="https://s.yimg.com/fz/api/res/1.2/jtuckMbC_tLGqKSNQcoTSQ--~C/YXBwaWQ9c3JjaGRkO2g9NzUyO3E9ODA7dz0xMjAw/http://www.peceswiki.com/Imagenes/caracteristicas-de-los-peces.jpg" style="width: 300px"><img></a>
-  <div id="modal">
-    <a href="#cerrar"></a>
-      <div id="modalContent">
-        <a href="#cerrar">X</a>
-         <h1 style="color: #f7be68; text-align:center;">Políticas de privacidad</h1>
-         <p style="text-align:center;">Contenido</p>
-      </div>
-  </div>
-    
+    </div> 
   </section>
   <!-- End features section -->  
    

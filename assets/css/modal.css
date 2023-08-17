@@ -18,12 +18,12 @@
  
  #modalContent{
     position:absolute;
-    top:30%;
+    top:10%;
     left:35%;
     z-index:6;
     float:left;
     margin:-2% 0px 0px -150px;
-    width:700px;
+    width:800px;
     color:#888888;
     line-height:22px;
     padding:15px;
@@ -31,6 +31,10 @@
     background:#ffffff;
     /*border:1px solid #f7be68;*/
     box-shadow:5px 5px 10px 0px rgba(0,0,0,0.22);
+    overflow-y: scroll;
+    margin-bottom: 12px;
+    overflow-x: hidden;
+    
  }
  
  #modal{
@@ -44,6 +48,7 @@
     background:rgba(0,0,0,0.2);
     display:none;
     opacity:0;
+    
  }
  
  #modal > a{
@@ -72,3 +77,4 @@
     font-size: 30px;
     text-decoration: none;
  }
+ 
