@@ -22,7 +22,8 @@
     <link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
 
     <!-- Main style sheet -->
-    <link href="assets/css/style.css" rel="stylesheet">    
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/modal.css" rel="stylesheet">    
 
    
     <!-- Google Fonts -->
@@ -236,24 +237,39 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">
+                  <a href="#modal" title="Políticas de privacidad" class="btn"><img src="assets/img/modelo/grado.png" width="70px" alt="img"><img></a>
+                  <div id="modal">
+                        <a href="#cerrar"></a>
+                      <div id="modalContent">
+                        <a href="#cerrar">X</a>
+                          <h1 style="color: #f7be68; text-align:center;">Políticas de privacidad</h1>
+                            <p style="text-align:center;">Contenido</p>
+                        </div>
+                    </div>
+                  <!--<img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">-->
                   <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
                     <h4>PROMOCIÓN DE GRADO</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                    <p>Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
+                      surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
                   <img class="media-object" src="assets/img/modelo/sparring.png" width="70px" alt="img">
                     <h4>TALLER DE SPARRING</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                    <p>El taller de sparring emerge como un programa esencial, diseñado para introducir a los alumnos 
+                       en el mundo del combate, analizar sus técnicas y realizar correcciones precisas. 
+                       Aquí, las instrucciones directas se ofrecen mientras los alumnos se entregan al sparring, 
+                       permitiendo una base sólida para ganar confianza en la aplicación de las técnicas adquiridas durante las clases regulares.</p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
                   <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" width="70px" alt="img">
                     <h4>CLUB DE LA PELEA</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                    <p>El Club de la Pelea tiene una misión clara: expandir las capacidades más allá de lo meramente combativo. 
+                      Si bien el enfoque radica en el dominio de las artes marciales, este programa va más allá al brindar 
+                      habilidades esenciales, desde el arte del coaching hasta el análisis crítico como jueces y referees. </p>
                   </div>
                 </div>
               </div>
@@ -283,7 +299,9 @@
                   <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
                   <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
                     <h4>SELECCIÓN BRIKAN</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                    <p>La selección de peleadores ocupa un rol crucial e imprescindible, ya que recae sobre ellos la responsabilidad representativa, 
+                      competitiva y de rendimiento para la academia, institución o escuela que respaldan. Ingresar a la selección de peleadores no es tarea sencilla, 
+                      ya que implica una evaluación minuciosa de diversos factores en cada candidato.</p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -295,7 +313,9 @@
                   <div class="mu-single-feature">
                   <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
                     <h4>CONEXIÓN KIDS</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.</p>
+                    <p>En el corazón de "Conexión Kids" se encuentra el deseo de los adolescentes de ser un apoyo sólido para los niños en sus primeros pasos en el 
+                      mundo de las artes marciales y, por extensión, en la vida. Los adolescentes, en su etapa de aprendizaje y desarrollo, encuentran en este 
+                      programa una plataforma donde pueden transmitir conocimientos mientras se embarcan en su propio viaje de tutoría.</p>
                   </div>
                 </div>
               </div>
@@ -312,6 +332,16 @@
         </div>
       </div>
     </div>
+
+    <a href="#modal" title="Políticas de privacidad" class="btn"><img src="https://s.yimg.com/fz/api/res/1.2/jtuckMbC_tLGqKSNQcoTSQ--~C/YXBwaWQ9c3JjaGRkO2g9NzUyO3E9ODA7dz0xMjAw/http://www.peceswiki.com/Imagenes/caracteristicas-de-los-peces.jpg" style="width: 300px"><img></a>
+  <div id="modal">
+    <a href="#cerrar"></a>
+      <div id="modalContent">
+        <a href="#cerrar">X</a>
+         <h1 style="color: #f7be68; text-align:center;">Políticas de privacidad</h1>
+         <p style="text-align:center;">Contenido</p>
+      </div>
+  </div>
     
   </section>
   <!-- End features section -->  

@@ -674,7 +674,7 @@ img {
   line-height: 1.7;
 }
 #mu-features .mu-features-area .mu-features-content .mu-single-feature a {
-  border: 1px solid #888;
+  /*border: 1px solid #888;*/
   display: inline-block;
   font-size: 14px;
   margin-top: 10px;
