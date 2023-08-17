@@ -7,7 +7,7 @@
     <title>Academia | Liceo-Palestra</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png" sizes="16x16">
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
