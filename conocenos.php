@@ -208,121 +208,68 @@
                             <li> <span>Course Start</span> <span>July 25, 2016</span></li>
                           </ul>-->
                           <h4>¿Quiénes somos?</h4>
-                          <p>Liceo-Palestra es una academia joven, abre sus puertas el 6 de Enero del 2020.  La academia esta conformada por la Subdirectora:  Sensei Mariel Baas Alfaro y el Director: Profesor: Karlo Réne Sánchez Bojorquez. Ambos graduados de la Academia Coliseum Artes Marciales & box, ubicada en la colonia  Xoclan.</p>
-                          <p>Ambos maestros poseen el grado de Cinturón Negro Kickboxing.</p>
-                          <blockquote>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
-                          </blockquote>
-                          <p>A sus 3 meses de apertura la academia, recibió una gran aceptación por parte de los alumnos, sin embargo sin saber: seria un año difícil para todo el mundo, motivo que ya conocemos todos. La pandemia obliga cerrar sus puertas a todo negocio, la academia no fue la excepción. Pese a todo lo que se vivió afortunadamente la academia pudo sobrevivir a esta situación y reabre sus puertas en Octubre del mismo año, retomando lo que desde un principio se había perdido. </p>
-                          <p>En la actualidad la academia tiene sus puertas abiertas, los eventos comienzan a retomarse de nuevo poco a poco y los alumnos ya comienzan a vivir las experiencias que la academia les ofrece, como: exámenes de grado, algunos torneos, etc.</p>
-                          <!--<h4>Course Outline</h4>
-                          <div class="table-responsive">
-                            <table class="table">
-                            <thead>
-                              <tr>
-                                <th> Title </th>
-                                <th> Course Time </th>
-                                <th> Spent Time </th>
-                                <th> Status </th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td> 1. Topic 1 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 2. Topic 2 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 3. Topic 3 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 4. Topic 4 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 5. Topic 5 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Waiting </td>
-                              </tr>
-                              <tr>
-                                <td> 6. Topic 6 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> - </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          </div>-->
-                          <h4>¿Que beneficios obtengo?</h4>
-                          <blockquote>
-                            <p class="title-negrita">Salud</p>
-                            <p>Comienzas por ganar cardio, resistencia, fuerza, potencia, perdida de peso, reducción del
-                               estrés, tonificación del cuerpo, esto por mencionar algunos, y aunque parezca increíble, 
-                               estos beneficios los comienzas a sentir desde del primer día de tu entrenamiento.</p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Social</p>
-                            <p>Una de las muchas ventajas de practicar artes marciales es la de interactuar con 
-                              diferentes tipos de personalidades, pesos, estaturas, filosofías de vida y culturas, 
-                              te permitirás expandir tu círculo social o incluso establecer amistades duraderas.</p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Valor del respeto</p>
-                            <p>En disciplinas como el kickboxing o el karate, existen rangos (cintas) según la 
-                               experiencia y tiempo de práctica de cada alumno. Este sistema de jerarquías es lo que 
-                              fortalece el sentido del respeto hacia nuestros superiores y personas mayores.</p>
-                            <p>Es muy gratificante finalmente recibir ese deseado ascenso después de meses o incluso años
-                               de entrenamiento. Muchas academias entregan diplomas, el cual podrás anexar a tu 
-                               currículum personal como una herramienta de vida más.</p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Fomenta la autoestima</p>
-                            <p>Entre los muchos beneficios de practicar artes marciales se encuentra el que saber 
-                               defenderte te empodera emocionalmente. Serás una persona más decidida  y confiada, capaz 
-                               de manejar situaciones de estrés con mayor facilidad.
+                          <p>Liceo-Palestra: Forjando la Excelencia a través de las Artes Marciales</p>
+                          <p>Liceo-Palestra, una academia joven, abrió sus puertas el 6 de enero de 2020.
+                             La academia está dirigida por la Subdirectora Sensei: Mariel Baas Alfaro y 
+                             el Director Shodan: Karlo Réne Sánchez Bojorquez. Ambos son graduados distinguidos
+                             de la Academia Coliseum Artes Marciales & Box en la colonia Xoclan.</p>
+                          <p>Estos experimentados instructores ostentan un Cinturón Negro en Kickboxing,
+                             testimonio de su dedicación y experiencia. Desde su inauguración, 
+                             la academia ha obtenido una respuesta notable por parte de los estudiantes. 
+                             Liceo-Palestra está afiliado a la Asociación de Artes Marciales Mixtas de
+                             Contacto Completo del Estado de Yucatán, la cual esta representada  
+                             por el Hanshi: Jorge Ahuatzin Vazquez. Esta asociación abarca varias academias respetadas.</p>
+                          <p>Nuestro objetivo primordial es moldear individuos destacados con valores inquebrantables.
+                             Impartimos conocimiento de manera responsable y aseguramos la preservación de nuestro
+                             distintivo toque humano.</p>
+                          <br>
 
-                               La capacidad de protegerte genera un cambio de actitud automático, y las personas a tu
-                               alrededor podrán percibirlo de manera positiva.</p>
+                          <h4>Beneficios de Ingresar a Liceo-Palestra</h4>
+                          <blockquote>
+                            <p class="title-negrita">Bienestar Físico</p>
+                            <p>Desde la aptitud cardiovascular hasta el fortalecimiento, la resistencia, la pérdida
+                               de peso, la reducción del estrés y el tono muscular, los beneficios físicos se sienten
+                               desde el primer día de entrenamiento.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Participación Social</p>
+                            <p>Las artes marciales brindan una plataforma única para interactuar con diversas
+                              personalidades, de diferentes tamaños, filosofías y antecedentes. Ampliarás tu círculo
+                              social y posiblemente cultivarás amistades duraderas.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Valor del Respeto</p>
+                            <p>El sistema de jerarquía de cinturones en disciplinas como el kickboxing y el karate 
+                               refuerza el respeto por los superiores y los mayores. Obtener promociones después 
+                               de un entrenamiento riguroso inculca un sentido de logro y respeto.</p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Aumento de la Autoestima</p>
+                            <p>Las artes marciales te empoderan con habilidades de autodefensa, lo que te hace más 
+                              asertivo y seguro al manejar situaciones estresantes.</p>
                           </blockquote>
                           <blockquote>
                             <p class="title-negrita">Diversión</p>
-                            <p>Siempre y cuando la actividad sea guiada y desarrollada responsablemente por 
-                               el Sensei o Maestro (y colegas de entrenamiento), ten por seguro que quedarás 
-                               profundamente cautivado y entretenido por lo dinámico de cada sesión en cualquiera 
-                               de las diferentes opciones que mencionamos a lo largo del texto. </p>
+                            <p>Guiadas por experimentados Senseis y Maestros, cada sesión promete una experiencia 
+                              dinámica y placentera.</p>
                           </blockquote>
                           <blockquote>
-                            <p class="title-negrita">Una forma de vida</p>
-                            <p>Liceo-Palestra te ofrece no solo conocer o practicar una disciplina, te ofrece una
-                               carrera profesional al final de camino, como: Maestro / Instructor, ya que  recibes 
-                               Certificación oficial, avalado y respaldado  por la Asociación de Artes Marciales 
-                               Mixtas de Contacto Completo del Edo. de Yucatán. Lo cual te permitirá desarrollarte  
-                               profesionalmente en cualquier institución deportiva, Dojo o academia.
-
-                               Sin duda los beneficios son muchos, pero creemos mencionar los mas importantes, 
-                               la experiencia Liceo-Palestra esta pensada y creada para aquel que desee vivir y 
-                               experimentar.. inténtalo, ¡no te arrepentirás!.</p>
+                            <p class="title-negrita">Mejora del Estilo de Vida</p>
+                            <p>Liceo-Palestra ofrece más que aprender o practicar una disciplina; allana el camino 
+                              para una carrera profesional. Certificado por la Asociación de Artes Marciales Mixtas de 
+                              Contacto Completo del Estado de Yucatán, puedes convertirte en Instructor, potencialmente 
+                              trabajando en diversas instituciones deportivas o academias.</p>
                           </blockquote>
+                          <div class="centrado">
+                            <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+                          </div>
                         </div>
                       </div> 
                     </div>                                   
                   </div>
                 </div>
                 <!-- end course content container -->
-                <!-- start related course item -->
+                <!-- start related course item 
                 <div class="row">
                   <div class="col-md-12">
                     <div class="mu-related-item">
@@ -410,7 +357,7 @@
                 </div>
                   </div>
                 </div>
-                <!-- end start related course item -->
+                end start related course item -->
               </div>
               <div class="col-md-3">
                 <!-- start sidebar -->
