@@ -120,7 +120,6 @@
               </ul>-->
             </li>                 
             <li><a href="valores.php">Valores</a></li>
-            <li><a href="valores.php">Valores</a></li>
             <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
             <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
