@@ -164,111 +164,63 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Grados</h2>
+           <h2>Modelo Académico</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Grados</li>
+            <li class="active">Modelo Académico</li>
           </ol>
          </div>
        </div>
      </div>
    </div>
  </section>
- <!-- End breadcrumb -->
- <section id="mu-course-content">
-   <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="mu-course-content-area">
+ <!-- Start about us -->
+ <section id="mu-about-us">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="mu-about-us-area">           
             <div class="row">
-              <div class="col-md-9">
-                <!-- start course content container -->
-                <div class="mu-course-container mu-course-details">
-                  <div class="row">
-                    <div class="col-md-12">
-                      <div class="mu-latest-course-single">
-                        <figure class="mu-latest-course-img">
-                          <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <figcaption class="mu-latest-course-imgcaption">
-                            <a href="#">Drawing</a>
-                            <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>
-                        </figure>
-                        <div class="mu-latest-course-single-content">
-                          <h2><a href="#">Lorem ipsum dolor sit amet.</a></h2>
-                          <h4>Course Information</h4>
-                          <ul>
-                            <li> <span>Course Price</span> <span>$250</span></li>
-                            <li> <span>Place</span> <span>California,USA</span></li>
-                            <li> <span>Total Students</span> <span>800+</span></li>
-                            <li> <span>Course Duration</span> <span>4 Weeks</span></li>
-                            <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>
-                          <h4>Description</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo est itaque vero porro quasi illo ex consequuntur ad animi commodi, ipsam provident voluptas vel adipisci. Minima repellendus vel est, sequi labore quo ipsa voluptatem officiis ex fuga nemo quas. Eligendi inventore ducimus omnis, maxime, alias accusantium similique minus! Labore facilis qui, sunt, ipsam consectetur minus sapiente saepe numquam magnam quidem.</p>
-                          <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, placeat, ipsa. Modi sed quibusdam vel autem fugit, eaque, iste. Excepturi fugit dignissimos suscipit dolor perferendis debitis magni sed, quia ab.</p>
-                          </blockquote>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis ea consequatur doloremque deleniti error ullam, accusamus vel est alias, sit. Similique voluptas aliquid, excepturi accusamus, sequi ducimus incidunt mollitia non.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi saepe possimus doloribus quod quibusdam officia suscipit qui illum nemo itaque, porro ipsam tempore enim error eius quia, culpa. Reprehenderit consequuntur voluptatem dolorum magni natus inventore molestias veritatis eos aspernatur repudiandae.</p>
-                          <h4>Course Outline</h4>
-                          <div class="table-responsive">
-                            <table class="table">
-                            <thead>
-                              <tr>
-                                <th> Title </th>
-                                <th> Course Time </th>
-                                <th> Spent Time </th>
-                                <th> Status </th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td> 1. Topic 1 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 2. Topic 2 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 3. Topic 3 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 4. Topic 4 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 5. Topic 5 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Waiting </td>
-                              </tr>
-                              <tr>
-                                <td> 6. Topic 6 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> - </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          </div>
-                        </div>
-                      </div> 
-                    </div>                                   
+              <div class="col-lg-6 col-md-6">
+                <div class="mu-about-us-left">
+                  <!-- Start Title -->
+                  <div class="mu-title">
+                    <h2>MODELO ACADÉMICO</h2>              
                   </div>
+                  <!-- End Title -->
+                  <p>En nuestra etapa de formación, la estructura academica se divide por etapas, 
+                    las cuales poseen distintos grados, técnicas y habilidades. Es necesario dominar 
+                    cada nivel antes de pasar al siguiente, siguiendo el programa de entrenamiento. 
+                    Esto asegura un aprendizaje sólido en cada etapa. Nuestro objetivo es garantizar 
+                    el éxito y crecimiento de nuestros alumnos en las artes marciales. </p>
+                  <ul>
+                  <blockquote>
+                    <p class="title-negrita">Fase de Aprendizaje.</p>
+                  </blockquote>
+                  <blockquote>
+                    <p class="title-negrita">Fase de Aplicación.</p>
+                  </blockquote>
+                  <blockquote>
+                    <p class="title-negrita">Fase de Competiciones.</p>
+                  </blockquote>
+                  </ul>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quaerat harum facilis excepturi et? Mollitia!</p>
                 </div>
-                <!-- end course content container -->
+              </div>
+              <div class="col-lg-6 col-md-6">
+                <div class="mu-about-us-right">                            
+                <a id="mu-abtus-video" href="https://www.youtube.com/embed/HN3pm9qYAUs" target="mutube-video">
+                  <img src="assets/img/about-us.jpg" alt="img">
+                </a>                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End about us -->
                 <!-- start related course item -->
                 <div class="row">
                   <div class="col-md-12">
