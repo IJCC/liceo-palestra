@@ -42,6 +42,13 @@ body {
   font-weight: bold;
   color: #4a0112;
 }
+.title-firmes-y-dignos{
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+  font-family: 'Dalek', sans-serif;
+  font-size: 30px;
+}
 
 .no-padding {
   padding: 0;

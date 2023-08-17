@@ -11,6 +11,7 @@
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/dalek" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">   
     <!-- Slick slider -->

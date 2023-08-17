@@ -11,6 +11,7 @@
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/dalek" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">   
     <!-- Slick slider -->
@@ -206,14 +207,6 @@
                             <li> <span>Course Duration</span> <span>4 Weeks</span></li>
                             <li> <span>Course Start</span> <span>July 25, 2016</span></li>
                           </ul>-->
-                          <h4>Valores</h4>
-                          <p>Liceo-Palestra es una academia joven, abre sus puertas el 6 de Enero del 2020.  La academia esta conformada por la Subdirectora:  Sensei Mariel Baas Alfaro y el Director: Profesor: Karlo Réne Sánchez Bojorquez. Ambos graduados de la Academia Coliseum Artes Marciales & box, ubicada en la colonia  Xoclan.</p>
-                          <p>Ambos maestros poseen el grado de Cinturón Negro Kickboxing.</p>
-                          <blockquote>
-                            <p>Sin duda siempre nuestra prioridad será el forjar a buenas personas con excelentes valores, impartiendo el conocimiento con responsabilidad y calidad, pero sobre todo sin perder la calidad humana.</p>
-                          </blockquote>
-                          <p>A sus 3 meses de apertura la academia, recibió una gran aceptación por parte de los alumnos, sin embargo sin saber: seria un año difícil para todo el mundo, motivo que ya conocemos todos. La pandemia obliga cerrar sus puertas a todo negocio, la academia no fue la excepción. Pese a todo lo que se vivió afortunadamente la academia pudo sobrevivir a esta situación y reabre sus puertas en Octubre del mismo año, retomando lo que desde un principio se había perdido. </p>
-                          <p>En la actualidad la academia tiene sus puertas abiertas, los eventos comienzan a retomarse de nuevo poco a poco y los alumnos ya comienzan a vivir las experiencias que la academia les ofrece, como: exámenes de grado, algunos torneos, etc.</p>
                           <!--<h4>Course Outline</h4>
                           <div class="table-responsive">
                             <table class="table">
@@ -267,53 +260,56 @@
                           </div>-->
                           <h4>Nuestros Valores</h4>
                           <blockquote>
-                            <p class="title-negrita">Salud</p>
-                            <p>Comienzas por ganar cardio, resistencia, fuerza, potencia, perdida de peso, reducción del
-                               estrés, tonificación del cuerpo, esto por mencionar algunos, y aunque parezca increíble, 
-                               estos beneficios los comienzas a sentir desde del primer día de tu entrenamiento.</p>
+                            <p class="title-negrita">Disciplina</p>
+                            <p>Creemos que la disciplina es la piedra angular del éxito en las artes marciales 
+                              y en la vida. Fomentamos la dedicación, la constancia y la autodisciplina en la 
+                              práctica de las técnicas y en la superación de los retos, reconociendo que el 
+                              camino del maestro es un camino de aprendizaje constante.</p>
                           </blockquote>
                           <blockquote>
-                            <p class="title-negrita">Social</p>
-                            <p>Una de las muchas ventajas de practicar artes marciales es la de interactuar con 
-                              diferentes tipos de personalidades, pesos, estaturas, filosofías de vida y culturas, 
-                              te permitirás expandir tu círculo social o incluso establecer amistades duraderas.</p>
+                            <p class="title-negrita">Respeto</p>
+                            <p>Valoramos el respeto mutuo y el trato amable entre todos los miembros del club. 
+                              Fomentamos la tolerancia, la cortesía y el respeto hacia los entrenadores, 
+                              compañeros de entrenamiento y el entorno en general. 
+                              Reconocemos que el respeto es fundamental en la relación entre maestro y discípulo
+                              , y en la construcción de una comunidad unida y armoniosa.</p>
                           </blockquote>
                           <blockquote>
-                            <p class="title-negrita">Valor del respeto</p>
-                            <p>En disciplinas como el kickboxing o el karate, existen rangos (cintas) según la 
-                               experiencia y tiempo de práctica de cada alumno. Este sistema de jerarquías es lo que 
-                              fortalece el sentido del respeto hacia nuestros superiores y personas mayores.</p>
-                            <p>Es muy gratificante finalmente recibir ese deseado ascenso después de meses o incluso años
-                               de entrenamiento. Muchas academias entregan diplomas, el cual podrás anexar a tu 
-                               currículum personal como una herramienta de vida más.</p>
+                            <p class="title-negrita">Superación Personal</p>
+                            <p>Creemos en el constante crecimiento y mejora personal como artista marcial
+                               y como ser humano. Motivamos a nuestros miembros a establecer metas 
+                               desafiantes y a trabajar arduamente para alcanzarlas, superándose 
+                               a sí mismos en cada entrenamiento y competición. Valoramos la perseverancia,
+                                la determinación y la mentalidad de crecimiento. </p>
                           </blockquote>
                           <blockquote>
-                            <p class="title-negrita">Fomenta la autoestima</p>
-                            <p>Entre los muchos beneficios de practicar artes marciales se encuentra el que saber 
-                               defenderte te empodera emocionalmente. Serás una persona más decidida  y confiada, capaz 
-                               de manejar situaciones de estrés con mayor facilidad.
+                            <p class="title-negrita">Camaradería</p>
+                            <p>Fomentamos un ambiente de camaradería y compañerismo, donde nuestros miembros 
+                              se apoyan mutuamente y construyen relaciones significativas. Valoramos la colaboración,
+                              el trabajo en equipo y la solidaridad entre los miembros del club, reconociendo que la
+                              unión hace la fuerza y que juntos podemos alcanzar metas más altas. </p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Ética</p>
+                            <p>Promovemos una conducta ética y responsable en la práctica de las artes marciales,
+                              incluyendo el respeto a las reglas y normas, la honestidad, la integridad y la 
+                              deportividad en todas las actividades del club. </p>
+                          </blockquote>
+                          <blockquote>
+                            <p class="title-negrita">Solidaridad</p>
+                            <p>En nuestra academia fomentamos el ambiente familiar y el apoyo mutuo en todo momento,
+                               dentro y fuera de las instalaciones. Nos preocupamos por el bienestar de todos nuestros
+                               alumnos y creemos en la importancia de formar una comunidad fuerte y unida. 
+                               Enseñamos a nuestros alumnos a ser solidarios con sus familiares, compañeros, 
+                               amigos y ayudar a quienes lo necesitan, creando así un ambiente positivo y de apoyo constante.</p> 
 
-                               La capacidad de protegerte genera un cambio de actitud automático, y las personas a tu
-                               alrededor podrán percibirlo de manera positiva.</p>
+                            <p>En la academia Liceo-Palestra, nos comprometemos a promover una cultura basada en estos
+                               valores, y a brindar un ambiente inclusivo, seguro y profesional para que nuestros miembros
+                               puedan desarrollar su potencial al máximo, alcanzar sus metas y disfrutar de una experiencia
+                               enriquecedora en su práctica de las artes marciales. </p>
                           </blockquote>
                           <blockquote>
-                            <p class="title-negrita">Diversión</p>
-                            <p>Siempre y cuando la actividad sea guiada y desarrollada responsablemente por 
-                               el Sensei o Maestro (y colegas de entrenamiento), ten por seguro que quedarás 
-                               profundamente cautivado y entretenido por lo dinámico de cada sesión en cualquiera 
-                               de las diferentes opciones que mencionamos a lo largo del texto. </p>
-                          </blockquote>
-                          <blockquote>
-                            <p class="title-negrita">Una forma de vida</p>
-                            <p>Liceo-Palestra te ofrece no solo conocer o practicar una disciplina, te ofrece una
-                               carrera profesional al final de camino, como: Maestro / Instructor, ya que  recibes 
-                               Certificación oficial, avalado y respaldado  por la Asociación de Artes Marciales 
-                               Mixtas de Contacto Completo del Edo. de Yucatán. Lo cual te permitirá desarrollarte  
-                               profesionalmente en cualquier institución deportiva, Dojo o academia.
-
-                               Sin duda los beneficios son muchos, pero creemos mencionar los mas importantes, 
-                               la experiencia Liceo-Palestra esta pensada y creada para aquel que desee vivir y 
-                               experimentar.. inténtalo, ¡no te arrepentirás!.</p>
+                            <p class="title-firmes-y-dignos">FIRMES Y DIGNOS</p>
                           </blockquote>
                         </div>
                       </div> 
