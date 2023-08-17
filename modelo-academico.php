@@ -11,6 +11,7 @@
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/dalek" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">   
     <!-- Slick slider -->
@@ -301,14 +302,20 @@
             </div>
             <!-- End features content -->
           </div>
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>  
         </div>
       </div>
     </div>
+    
   </section>
   <!-- End features section -->  
-
-<br>
-<br>    
+   
    <!-- Start footer -->
    <footer id="mu-footer">
     <!-- start footer top -->
