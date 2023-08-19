@@ -179,21 +179,21 @@
             <div class="mu-service-single">
               <span class="fa fa-book"></span>
               <h3>Conócenos</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>La Academia Liceo-Palestra es una institución educativa joven y comprometida, especializada en el ámbito de las artes marciales.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-users"></span>
               <h3>Valores</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>Fomentamos la dedicación, la constancia y la autodisciplina en la práctica de las técnicas y en la superación de los retos.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-table"></span>
               <h3>Modelo Académico</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
+              <p>En nuestra etapa de formación, la estructura academica se divide por etapas, que poseen distintos grados, técnicas y habilidades.</p>
             </div>
             <!-- Start single service -->
           </div>
