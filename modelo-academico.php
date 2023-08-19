@@ -100,44 +100,15 @@
           <!-- TEXT BASED LOGO -->
           <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>
           <!-- IMG BASED LOGO  -->
-          <!-- <a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="logo"></a> -->
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li class="active"><a href="index.php">Inicio</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>
-            <li class=""><a href="conocenos.php">Conócenos</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
             </li>                 
-            <li><a href="valores.php">Valores</a></li>
-            <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
+            <li class=""><a href="eventos.php">Eventos</a></li>            
             </li>             
-            <li class=""><a href="eventos.php">Eventos y más</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
+            <li class=""><a href="eventos.php">Equipo de Entrenamiento</a></li>            
             </li>             
-            <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
           </ul>                     
         </div><!--/.nav-collapse -->        
       </div>     
@@ -237,7 +208,7 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
-                  <a href="#modal" title="Políticas de privacidad" class="btn"><img src="assets/img/modelo/grado.png" width="70px" alt="img"><img></a>
+                  <a href="#modal" title="" class="btn"><img src="assets/img/modelo/grado.png" width="70px" alt="img"><img></a>
                   <div id="modal">
                         <a href="#cerrar"></a>
                       <div id="modalContent">

@@ -11,6 +11,7 @@
 
     <!-- Font awesome -->
     <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/dalek" rel="stylesheet">
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">   
     <!-- Slick slider -->
@@ -103,41 +104,13 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li class="active"><a href="index.php">Inicio</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>
-            <li class=""><a href="conocenos.php">Conócenos</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
             </li>                 
-            <li><a href="valores.php">Valores</a></li>
-            <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li> 
-            <li class=""><a href="eventos.php">Eventos y más</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
+            <li class=""><a href="eventos.php">Eventos</a></li>            
             </li>             
-            <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
+            <li class=""><a href="eventos.php">Equipo de Entrenamiento</a></li>            
+            </li>             
           </ul>                     
-        </div><!--/.nav-collapse -->        
+        </div><!--/.nav-collapse -->         
       </div>     
     </nav>
   </section>
@@ -164,7 +137,7 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Eventos y Equipo de Entrenamiento</h2>
+           <h2>Eventos</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
             <li class="active">Eventos</li>

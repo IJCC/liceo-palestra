@@ -106,61 +106,17 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li class="active"><a href="index.php">Inicio</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>
-            <li class=""><a href="conocenos.php">Conócenos</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
             </li>                 
-            <li><a href="valores.php">Valores</a></li>
-            <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li> 
-            <li class=""><a href="eventos.php">Eventos y más</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
+            <li class=""><a href="eventos.php">Eventos</a></li>            
             </li>             
-            <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
+            <li class=""><a href="eventos.php">Equipo de Entrenamiento</a></li>            
+            </li>             
           </ul>                     
-        </div><!--/.nav-collapse -->        
+        </div><!--/.nav-collapse -->    
       </div>     
     </nav>
   </section>
   <!-- End menu -->
-  <!-- Start search box
-  <div id="mu-search">
-    <div class="mu-search-area">      
-      <button class="mu-search-close"><span class="fa fa-close"></span></button>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">            
-            <form class="mu-search-form">
-              <input type="search" placeholder="Type Your Keyword(s) & Hit Enter">              
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-   End search box -->
   <!-- Start Slider -->
   <section id="mu-slider">
     <!-- Start single slider item -->
@@ -222,21 +178,21 @@
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-book"></span>
-              <h3>Learn Online</h3>
+              <h3>Conócenos</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-users"></span>
-              <h3>Expert Teachers</h3>
+              <h3>Valores</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single">
               <span class="fa fa-table"></span>
-              <h3>Best Classrooms</h3>
+              <h3>Modelo Académico</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima officiis, deleniti dolorem exercitationem praesentium, est!</p>
             </div>
             <!-- Start single service -->
