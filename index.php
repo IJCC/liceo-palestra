@@ -177,26 +177,26 @@
           <div class="mu-service-area">
             <!-- Start single service -->
             <div class="mu-service-single zoomx" id="resumen">
-              <img src="assets/img/modelo/grado.png" width="70px"  alt="logo">
+              <img src="assets/img/conocenos.png" width="70px"  alt="logo">
               <a href="conocenos.php" id="enlace"></a>
               <h3>Conócenos</h3>
-              <p>La Academia Liceo-Palestra es una institución educativa joven y comprometida, especializada en el ámbito de las artes marciales.</p>
+              <p>Somos más que una academia, somos una pasión convertida en realidad.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single zoomx" id="resumen">
-            <img src="assets/img/modelo/grado.png" width="70px"  alt="logo">
+            <img src="assets/img/valores.png" width="70px"  alt="logo">
             <a href="valores.php" id="enlace"></a>
               <h3>Valores</h3>
-              <p>Fomentamos la dedicación, la constancia y la autodisciplina en la práctica de las técnicas y en la superación de los retos.</p>
+              <p>Nuestros valores son la base de todo lo que hacemos.</p>
             </div>
             <!-- Start single service -->
             <!-- Start single service -->
             <div class="mu-service-single zoomx" id="resumen">
-            <img src="assets/img/modelo/grado.png" width="70px"  alt="logo">
+            <img src="assets/img/modelo.png" width="70px"  alt="logo">
             <a href="modelo-academico.php" id="enlace"></a>
               <h3>Modelo Académico</h3>
-              <p>En nuestra etapa de formación, la estructura academica se divide por etapas, que poseen distintos grados, técnicas y habilidades.</p>
+              <p>Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
             </div>
             <!-- Start single service -->
           </div>
