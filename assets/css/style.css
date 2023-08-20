@@ -89,6 +89,15 @@ body {
 .paragraph-sidebar-service{
   color: #fff;
 }
+.zoom-sidebar{
+  transition: transform .1s;
+  margin: 0 auto;
+}
+.zoom-sidebar:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
 
 .no-padding {
   padding: 0;

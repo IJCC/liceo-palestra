@@ -137,10 +137,10 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>Eventos</h2>
+           <h2>Equipo de Entrenamiento</h2>
            <ol class="breadcrumb">
             <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Eventos</li>
+            <li class="active">Equipo de Entrenamiento</li>
           </ol>
          </div>
        </div>
