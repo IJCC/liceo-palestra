@@ -417,7 +417,7 @@
                   <div class="mu-service-single" id="sidebar">
                     <img class="img-single-service" src="assets/img/conocenos.png" width="70px"  alt="logo">
                     <a href="conocenos.php" id="enlace"></a>
-                    <h3 class="title-sidebar-service">Conócenos</h3>
+                    <h3 class="title-sidebar-service">Conócenosdddsfsdfsd</h3>
                     <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
                   </div>
               </div>
@@ -426,7 +426,7 @@
                   <div class="mu-single-sidebar" style="background-color: #000;">
                   <div class="mu-service-single" id="sidebar">
                     <img class="img-single-service" src="assets/img/valores.png" width="70px"  alt="logo">
-                    <a href="valores.php" id="enlace"></a>
+                    <a href="#" id="enlace"></a>
                     <h3 class="title-sidebar-service">Valores</h3>
                     <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
                   </div>
@@ -436,7 +436,7 @@
                   <div class="mu-single-sidebar">
                   <div class="mu-service-single" id="sidebar">
                     <img class="img-single-service" src="assets/img/modelo.png" width="70px"  alt="logo">
-                    <a href="modelo-academico.php" id="enlace"></a>
+                    <a href="#" id="enlace"></a>
                     <h3 class="title-sidebar-service">Modelo Académico</h3>
                     <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
                   </div>
