@@ -80,6 +80,15 @@ body {
   --escala: 1.1;
   cursor:pointer;
 }
+.img-single-service{
+  padding-top: 10px;
+}
+.title-sidebar-service{
+  color: #fff;
+}
+.paragraph-sidebar-service{
+  color: #fff;
+}
 
 .no-padding {
   padding: 0;
@@ -1207,12 +1216,16 @@ img {
   width: 100%;
 }
 #mu-course-content .mu-course-content-area .mu-sidebar .mu-single-sidebar {
-  background-color: #FFF;
+  background-color: #4a0112;
   display: inline;
   float: left;
+  text-align: center;
   margin-bottom: 25px;
   padding: 0 10px 10px;
   width: 100%;
+}
+#black{
+  
 }
 #mu-course-content .mu-course-content-area .mu-sidebar .mu-single-sidebar .mu-sidebar-catg {
   padding-left: 15px;

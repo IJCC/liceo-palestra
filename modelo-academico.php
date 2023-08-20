@@ -208,7 +208,7 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
-                  <a href="#modal" title="" class="btn"><img src="assets/img/modelo/grado.png" width="70px" alt="img"><img></a>
+                  <a href="#modal" title="" class="btn"><img src="assets/img/modelo/grado.png" width="75px" alt="img"><img></a>
                   <div id="modal">
                         <a href="#cerrar"></a>
                       <div id="modalContent">
@@ -249,7 +249,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/sparring.png" width="70px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/sparring.png" width="75px" alt="img">
                     <h4>TALLER DE SPARRING</h4>
                     <p>El taller de sparring emerge como un programa esencial, diseñado para introducir a los alumnos 
                        en el mundo del combate, analizar sus técnicas y realizar correcciones precisas. 
@@ -259,7 +259,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" width="70px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" width="75px" alt="img">
                     <h4>CLUB DE LA PELEA</h4>
                     <p>El Club de la Pelea tiene una misión clara: expandir las capacidades más allá de lo meramente combativo. 
                       Si bien el enfoque radica en el dominio de las artes marciales, este programa va más allá al brindar 
