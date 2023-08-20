@@ -176,148 +176,20 @@
                           <blockquote>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas numquam quis obcaecati, a sed ad aut totam fugiat, cumque quasi!</p>                            
                           </blockquote>
-                          <h1>Lorem ipsum dolor sit amet.</h1>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam distinctio voluptatibus sequi sint, in. Soluta alias sunt, voluptates necessitatibus neque, perspiciatis, quos doloribus quae non tempore ut qui facere nulla.</p>
-                          <h2>Lorem ipsum dolor sit amet, consectetur.</h2>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus dolor totam architecto voluptatum, unde non ipsum officia adipisci, eos error, expedita corporis laudantium esse. Mollitia minus, molestias doloremque! Earum, fuga!</p>
-                          <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus omnis laudantium magni ut voluptatum, asperiores consequatur ducimus tempore enim possimus aliquid eius aliquam nam quasi itaque officiis debitis ad minima.</p>
-                          <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum officia iure voluptas deleniti tempora eum ipsa explicabo tenetur laborum doloribus, perferendis quam enim molestiae. Officia numquam harum quam blanditiis sapiente!</p>
-                          <ul>
-                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                            <li>Obcaecati quas earum minima perspiciatis corrupti quasi cum.</li>
-                            <li>Vero mollitia voluptas libero praesentium ut dolor, labore.</li>
-                            <li>Eius, odit, incidunt. Voluptates iusto, a sapiente reiciendis?</li>
-                            <li>Quos, tenetur voluptas, dolore sapiente nisi repellat odio.</li>
-                          </ul>
+                          
+                          
                           
                         </div>
-                        <!-- start blog post tags -->
-                        <div class="mu-blog-tags">
-                          <ul class="mu-news-single-tagnav">
-                            <li>TAGS :</li>
-                            <li><a href="#">Science,</a></li>
-                            <li><a href="#">English,</a></li>
-                            <li><a href="#">Sports,</a></li>
-                            <li><a href="#">Health</a></li>
-                          </ul>
-                        </div>
-                        <!-- End blog post tags -->
-                        <!-- start blog social share -->
-                        <div class="mu-blog-social">
-                          <ul class="mu-news-social-nav">
-                            <li>SOCIAL SHARE :</li>
-                            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                          </ul>
-                        </div>
-                        <!-- End blog social share -->
+                        
                       </article>
                     </div>                                   
                   </div>
                 </div>
                 <!-- end course content container -->
                 <!-- start blog navigation -->
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="mu-blog-single-navigation">
-                      <a class="mu-blog-prev" href="#"><span class="fa fa-angle-left"></span>Prev</a>
-                      <a class="mu-blog-next" href="#">Next<span class="fa fa-angle-right"></span></a>
-                    </div>
-                  </div>
-                </div>
                 <!-- end blog navigation -->
                 <!-- start related course item -->
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="mu-related-item">
-                      <h3>Related News</h3>
-                      <div class="mu-related-item-area">
-                        <div id="mu-related-item-slide">
-                          <div class="col-md-6">
-                            <article class="mu-blog-single-item">
-                              <figure class="mu-blog-single-img">
-                                <a href="#"><img alt="img" src="assets/img/blog/blog-1.jpg"></a>
-                                <figcaption class="mu-blog-caption">
-                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                                </figcaption>                      
-                              </figure>
-                              <div class="mu-blog-meta">
-                                <a href="#">By Admin</a>
-                                <a href="#">02 June 2016</a>
-                                <span><i class="fa fa-comments-o"></i>87</span>
-                              </div>
-                              <div class="mu-blog-description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                                <a href="#" class="mu-read-more-btn">Read More</a>
-                              </div>
-                            </article>
-                          </div>
-                          <div class="col-md-6">
-                            <article class="mu-blog-single-item">
-                              <figure class="mu-blog-single-img">
-                                <a href="#"><img alt="img" src="assets/img/blog/blog-2.jpg"></a>
-                                <figcaption class="mu-blog-caption">
-                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                                </figcaption>                      
-                              </figure>
-                              <div class="mu-blog-meta">
-                                <a href="#">By Admin</a>
-                                <a href="#">02 June 2016</a>
-                                <span><i class="fa fa-comments-o"></i>87</span>
-                              </div>
-                              <div class="mu-blog-description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                                <a href="#" class="mu-read-more-btn">Read More</a>
-                              </div>
-                            </article>
-                          </div>
-                          <div class="col-md-6">
-                           <article class="mu-blog-single-item">
-                              <figure class="mu-blog-single-img">
-                                <a href="#"><img alt="img" src="assets/img/blog/blog-3.jpg"></a>
-                                <figcaption class="mu-blog-caption">
-                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                                </figcaption>                      
-                              </figure>
-                              <div class="mu-blog-meta">
-                                <a href="#">By Admin</a>
-                                <a href="#">02 June 2016</a>
-                                <span><i class="fa fa-comments-o"></i>87</span>
-                              </div>
-                              <div class="mu-blog-description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                                <a href="#" class="mu-read-more-btn">Read More</a>
-                              </div>
-                            </article>
-                          </div>
-                          <div class="col-md-6">
-                            <article class="mu-blog-single-item">
-                              <figure class="mu-blog-single-img">
-                                <a href="#"><img alt="img" src="assets/img/blog/blog-1.jpg"></a>
-                                <figcaption class="mu-blog-caption">
-                                  <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                                </figcaption>                      
-                              </figure>
-                              <div class="mu-blog-meta">
-                                <a href="#">By Admin</a>
-                                <a href="#">02 June 2016</a>
-                                <span><i class="fa fa-comments-o"></i>87</span>
-                              </div>
-                              <div class="mu-blog-description">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                                <a href="#" class="mu-read-more-btn">Read More</a>
-                              </div>
-                            </article>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+            
                 <!-- end start related course item -->
                 <!-- start related course item -->
                 <div class="row">
@@ -413,49 +285,26 @@
                 <!-- start sidebar -->
                 <aside class="mu-sidebar">
                   <!-- start single sidebar -->
-              <div class="mu-single-sidebar">
-                  <div class="mu-service-single" id="sidebar">
-                    <img class="img-single-service" src="assets/img/conocenos.png" width="70px"  alt="logo">
+                  <div class="mu-single-sidebar">
+                  <img src="assets/img/conocenos.png" width="70px"  alt="logo">
                     <a href="conocenos.php" id="enlace"></a>
-                    <h3 class="">Conócenosdddsfsdfsd</h3>
-                    <p class="">Somos más que una academia, somos una pasión convertida en realidad.</p>
-                  </div>
-              </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar" style="background-color: #000;">
-                  <div class="mu-service-single" id="sidebar">
-                    <img class="img-single-service" src="assets/img/valores.png" width="70px"  alt="logo">
-                    <a href="valores.php" id="enlace"></a>
-                    <h3 class="title-sidebar-service">Valores</h3>
-                    <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
-                  </div>
+                    <h3>Conócenos</h3>
+                    <p>Somos más que una academia, somos una pasión convertida en realidad.</p>
                   </div>
                   <!-- end single sidebar -->
                   <!-- start single sidebar -->
                   <div class="mu-single-sidebar">
-                  <div class="mu-service-single" id="sidebar">
-                    <img class="img-single-service" src="assets/img/modelo.png" width="70px"  alt="logo">
-                    <a href="modelo-academico.php" id="enlace"></a>
-                    <h3 class="title-sidebar-service">Modelo Académico</h3>
-                    <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
-                  </div>
+                  <h3>Valores</h3>
+                  <p>Nuestros valores son la base de todo lo que hacemos.</p>
                   </div>
                   <!-- end single sidebar -->
-                  <!-- start single sidebar 
+                  <!-- start single sidebar -->
                   <div class="mu-single-sidebar">
-                    <h3>Tags Cloud</h3>
-                    <div class="tag-cloud">
-                      <a href="#">Health</a>
-                      <a href="#">Science</a>
-                      <a href="#">Sports</a>
-                      <a href="#">Mathematics</a>
-                      <a href="#">Web Design</a>
-                      <a href="#">Admission</a>
-                      <a href="#">History</a>
-                      <a href="#">Environment</a>
-                    </div>
-                  </div> -->
+                    <h3>Modelo Académico</h3>
+                    <p>Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
+                  </div>
+                  <!-- end single sidebar -->
+                  <!-- start single sidebar -->
                   <!-- end single sidebar -->
                 </aside>
                 <!-- / end sidebar -->
