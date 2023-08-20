@@ -103,39 +103,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li class="active"><a href="index.php">Inicio</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>
-            <li class=""><a href="conocenos.php">Conócenos</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>                 
-            <li><a href="valores.php">Valores</a></li>
-            <li class=""><a href="modelo-academico.php">Modelo Académico</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>             
-            <li class=""><a href="eventos.php">Eventos y más</a></li>            
-            <!--<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course <span class="fa fa-angle-down"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="cursos.php">Archivo de cursos</a></li>                
-                <li><a href="detalles_cursos.php">Detalles de cursos</a></li>          
-              </ul>-->
-            </li>             
+            <li class="active"><a href="index.php">Inicio</a></li>               
+            <li class=""><a href="eventos.php">Eventos</a></li>            
+            <li class=""><a href="equipos.php">Equipo de entrenamiento</a></li>                
             <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
           </ul>                     
         </div><!--/.nav-collapse -->        
@@ -321,84 +291,32 @@
                 <aside class="mu-sidebar">
                   <!-- start single sidebar -->
                   <div class="mu-single-sidebar">
-                    <h3>Categories</h3>
-                    <ul class="mu-sidebar-catg">
-                      <li><a href="#">Web Design</a></li>
-                      <li><a href="">Web Development</a></li>
-                      <li><a href="">Math</a></li>
-                      <li><a href="">Physics</a></li>
-                      <li><a href="">Camestry</a></li>
-                      <li><a href="">English</a></li>
-                    </ul>
+                  <a href="conocenos.php">
+                  <img class="img-single-service zoom-sidebar" src="assets/img/conocenos.png" width="70px"  alt="logo">
+                  </a>
+                    <h3 class="title-sidebar-service">Conócenos</h3>
+                    <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
+                  </div>
+                  <!-- end single sidebar -->
+                  <!-- start single sidebar -->
+                  <div class="mu-single-sidebar" style="background-color: #000;">
+                  <a href="valores.php">
+                  <img class="img-single-service zoom-sidebar" src="assets/img/valores.png" width="70px"  alt="logo">
+                  </a>
+                  <h3 class="title-sidebar-service">Valores</h3>
+                  <p class="paragraph-sidebar-service">Nuestros valores son la base de todo lo que hacemos.</p>
                   </div>
                   <!-- end single sidebar -->
                   <!-- start single sidebar -->
                   <div class="mu-single-sidebar">
-                    <h3>Popular Course</h3>
-                    <div class="mu-sidebar-popular-courses">
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/1.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Medical Science</a></h4>                      
-                          <span class="popular-course-price">$200.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/2.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Web Design</a></h4>                      
-                          <span class="popular-course-price">$250.00</span>
-                        </div>
-                      </div>
-                      <div class="media">
-                        <div class="media-left">
-                          <a href="#">
-                            <img class="media-object" src="assets/img/courses/3.jpg" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                          <h4 class="media-heading"><a href="#">Health & Sports</a></h4>                      
-                          <span class="popular-course-price">$90.00</span>
-                        </div>
-                      </div>
-                    </div>
+                  <a href="modelo-academico.php">
+                  <img class="img-single-service zoom-sidebar" src="assets/img/modelo.png" width="70px"  alt="logo">
+                  </a>
+                    <h3 class="title-sidebar-service">Modelo Académico</h3>
+                    <p class="paragraph-sidebar-service">Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
                   </div>
                   <!-- end single sidebar -->
                   <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Archives</h3>
-                    <ul class="mu-sidebar-catg mu-sidebar-archives">
-                      <li><a href="#">May <span>(25)</span></a></li>
-                      <li><a href="">June <span>(35)</span></a></li>
-                      <li><a href="">July <span>(20)</span></a></li>
-                      <li><a href="">August <span>(125)</span></a></li>
-                      <li><a href="">September <span>(45)</span></a></li>
-                      <li><a href="">October <span>(85)</span></a></li>
-                    </ul>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                    <h3>Tags Cloud</h3>
-                    <div class="tag-cloud">
-                      <a href="#">Health</a>
-                      <a href="#">Science</a>
-                      <a href="#">Sports</a>
-                      <a href="#">Mathematics</a>
-                      <a href="#">Web Design</a>
-                      <a href="#">Admission</a>
-                      <a href="#">History</a>
-                      <a href="#">Environment</a>
-                    </div>
-                  </div>
                   <!-- end single sidebar -->
                 </aside>
                 <!-- / end sidebar -->
