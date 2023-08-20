@@ -417,8 +417,8 @@
                   <div class="mu-service-single" id="sidebar">
                     <img class="img-single-service" src="assets/img/conocenos.png" width="70px"  alt="logo">
                     <a href="conocenos.php" id="enlace"></a>
-                    <h3 class="title-sidebar-service">Conócenosdddsfsdfsd</h3>
-                    <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
+                    <h3 class="">Conócenosdddsfsdfsd</h3>
+                    <p class="">Somos más que una academia, somos una pasión convertida en realidad.</p>
                   </div>
               </div>
                   <!-- end single sidebar -->
