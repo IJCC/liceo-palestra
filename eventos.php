@@ -107,7 +107,7 @@
             </li>                 
             <li class=""><a href="eventos.php">Eventos</a></li>            
             </li>             
-            <li class=""><a href="eventos.php">Equipo de Entrenamiento</a></li>            
+            <li class=""><a href="equipos.php">Equipo de Entrenamiento</a></li>            
             </li>             
           </ul>                     
         </div><!--/.nav-collapse -->         
