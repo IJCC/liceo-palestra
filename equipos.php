@@ -154,37 +154,6 @@
          <div class="mu-course-content-area">
             <div class="row">
               <div class="col-md-9">
-                <!-- start course content container -->
-                <div class="mu-course-container mu-blog-single">
-                  <div class="row">
-                    <div class="col-md-12">
-                      <article class="mu-blog-single-item">
-                        <figure class="mu-blog-single-img">
-                          <a href="#"><img alt="img" src="assets/img/blog/blog-3.jpg"></a>
-                          <figcaption class="mu-blog-caption">
-                            <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
-                          </figcaption>                      
-                        </figure>
-                        <div class="mu-blog-meta">
-                          <a href="#">By Admin</a>
-                          <a href="#">02 June 2016</a>
-                          <span><i class="fa fa-comments-o"></i>87</span>
-                        </div>
-                        <div class="mu-blog-description">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus autem molestias nostrum eius optio et rem, cum voluptatibus aperiam soluta reiciendis quae nisi, debitis totam harum nulla! Voluptatem commodi quis, atque labore, sapiente tempora temporibus, repellendus laboriosam sunt aut dolores laborum libero? Laudantium non, enim, repellat recusandae quisquam aperiam hic amet corporis ipsam. Similique velit ipsa, quasi assumenda consequuntur earum.</p>
-                          <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas numquam quis obcaecati, a sed ad aut totam fugiat, cumque quasi!</p>                            
-                          </blockquote>
-                          
-                          
-                          
-                        </div>
-                        
-                      </article>
-                    </div>                                   
-                  </div>
-                </div>
                 <!-- end course content container -->
                 <!-- start blog navigation -->
                 <!-- end blog navigation -->
@@ -195,7 +164,7 @@
                 <div class="row">
                   <div class="col-md-12">
                     <div class="mu-related-item">
-                  <h3>Related Courses</h3>
+                  <h3>EQUIPO DE ENTREAMIENTO</h3>
                   <div class="mu-related-item-area">
                     <div id="mu-related-item-slide">
                       <div class="col-md-6">
