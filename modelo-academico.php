@@ -327,8 +327,8 @@
       </div>
     </div> 
   </section>
-  <!-- End features section -->  
-   
+  <!-- End features section --> 
+
    <!-- Start footer -->
    <footer id="mu-footer">
     <!-- start footer top -->
@@ -361,16 +361,6 @@
                 </ul>
               </div>
             </div>
-            <!--<div class="col-lg-3 col-md-3 col-sm-3">
-              <div class="mu-footer-widget">
-                <h4>News letter</h4>
-                <p>Get latest update, news & academic offers</p>
-                <form class="mu-subscribe-form">
-                  <input type="email" placeholder="Type your Email">
-                  <button class="mu-subscribe-btn" type="submit">Subscribe!</button>
-                </form>               
-              </div>
-            </div>-->
             <div class="col-lg-4 col-md-4 col-sm-4">
               <div class="mu-footer-widget">
                 <h4>Contacto</h4>
