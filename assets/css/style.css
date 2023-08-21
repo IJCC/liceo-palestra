@@ -2250,12 +2250,12 @@ img {
   }
 
   .navbar-toggle {
-    background-color: #01bafd;
+    background-color: #4a0112;
     border-radius: 0;
   }
 
   .navbar-default .navbar-toggle {
-    border-color: #01bafd;
+    border-color: #4a0112;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
@@ -2263,7 +2263,7 @@ img {
   }
 
   .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #01bafd;
+    background-color: #4a0112;
   }
 
   #mu-menu .navbar-default .navbar-nav li > a {
