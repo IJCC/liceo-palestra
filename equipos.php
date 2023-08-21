@@ -66,12 +66,10 @@
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                 <div class="mu-header-top-right">
                   <nav>
-                    <ul class="mu-top-social-nav">
-                      <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                      <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                      <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                      <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                      <li><a href="#"><span class="fa fa-youtube"></span></a></li>
+                  <ul class="mu-top-social-nav">
+                      <li><a href="https://www.facebook.com/LiceoPalestra" target="_blank"><span class="fa fa-facebook"></span></a></li>
+                      <li><a href="https://instagram.com/liceo_palestra_mid?igshid=MzRlODBiNWFlZA==" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                      <!--<li><a href="#"><span class="fa fa-youtube"></span></a></li>-->
                     </ul>
                   </nav>
                 </div>
@@ -96,10 +94,10 @@
             <span class="icon-bar"></span>
           </button>
           <!-- LOGO -->              
-          <!-- TEXT BASED LOGO -->
-          <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>
+          <!-- TEXT BASED LOGO 
+          <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>-->
           <!-- IMG BASED LOGO  -->
-          <!-- <a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="logo"></a> -->
+          <a class="navbar-brand" href="index.php"><img src="assets/img/logo_principal.jpg" width="150px" alt="logo"></a> 
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">

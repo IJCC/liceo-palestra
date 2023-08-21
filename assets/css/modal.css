@@ -5,8 +5,14 @@
     color:#fff;
     text-shadow:none;
     border-radius:0px;
-    background: #fff;
+    background: #4a0112;
     text-decoration: none;
+ }
+ #btnmodal{
+   background: #4a0112;
+ }
+ .modal-title{
+   font-weight: bold;
  }
  
  /*.btn:hover{

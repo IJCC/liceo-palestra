@@ -67,12 +67,10 @@
               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                 <div class="mu-header-top-right">
                   <nav>
-                    <ul class="mu-top-social-nav">
-                      <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                      <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                      <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                      <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                      <li><a href="#"><span class="fa fa-youtube"></span></a></li>
+                  <ul class="mu-top-social-nav">
+                      <li><a href="https://www.facebook.com/LiceoPalestra" target="_blank"><span class="fa fa-facebook"></span></a></li>
+                      <li><a href="https://instagram.com/liceo_palestra_mid?igshid=MzRlODBiNWFlZA==" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                      <!--<li><a href="#"><span class="fa fa-youtube"></span></a></li>-->
                     </ul>
                   </nav>
                 </div>
@@ -97,9 +95,10 @@
             <span class="icon-bar"></span>
           </button>
           <!-- LOGO -->              
-          <!-- TEXT BASED LOGO -->
-          <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>
+         <!-- TEXT BASED LOGO 
+          <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>-->
           <!-- IMG BASED LOGO  -->
+          <a class="navbar-brand" href="index.php"><img src="assets/img/logo_principal.jpg" width="150px" alt="logo"></a> 
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
@@ -208,19 +207,30 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
-                  <a href="#modal" title="" class="btn"><img src="assets/img/modelo/grado.png" width="75px" alt="img"><img></a>
-                  <div id="modal">
-                        <a href="#cerrar"></a>
-                      <div id="modalContent">
-                        <a href="#cerrar">X</a>
-                          <h1 style="color: #4a0112; text-align:center;">Exámenes Promoción de Grado</h1>
-                            <p style="">Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
-                            <p style="">Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
+                  <img class="media-object" src="assets/img/modelo/grado.png" data-toggle="modal" data-target="#exampleModal0"  width="75px" alt="img">
+                  <!-- Modal -->
+                  <div class="modal fade" id="exampleModal0" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Exámenes Promoción de Grado</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                    <div class="modal-body">
+                          <p>Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
+                          <p>Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
                             surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
-
-                            <p style="">Los grados, que se distinguen por colores y son representados por cinturones, conforman un sistema que guía el progreso del alumno:</p>
-                            <p style="">
-                            <ol>
+                          <p>Los grados, que se distinguen por colores y son representados por cinturones, conforman un sistema 
+                            que guía el progreso del alumno:</p>
+                          <p>En resumen, el taller de sparring es el punto de partida esencial para comprender 
+                          el combate, perfeccionar las técnicas y ganar confianza. En contraste, 
+                          el Club de la Pelea se centra en proporcionar a los alumnos una plataforma donde pueden 
+                          ejercer su autonomía y aplicar sus habilidades en situaciones más dinámicas y desafiantes. 
+                          Ambos programas son valiosos, contribuyendo de manera única al crecimiento y desarrollo de 
+                          los alumnos en las artes marciales.</p>
+                          <ol>
                               <li>Blanco</li>
                               <li>Amarillo</li>
                               <li>Naranja</li>
@@ -233,15 +243,18 @@
                               <li>Rojo Negro</li>
                               <li>Negro</li>
                             </ol>
-                          </p>
-                          <p style="">Los alumnos más jóvenes, conocidos como "Kids", tienen sus propias promociones intermedias. 
+                          <p>Los alumnos más jóvenes, conocidos como "Kids", tienen sus propias promociones intermedias. 
                           Estas aplican solo dentro del rango de edad de 7 a 12 años y siguen un esquema similar al anterior.</p>
-                          <p style="">Cada grado lleva consigo técnicas específicas y a medida que se avanza, 
-                          estas se vuelven más complejas. Cabe mencionar que cada grado también tiene niveles intermedios, que se asignan según el caso.</p>
-                        </div>
+                          <p>Cada grado lleva consigo técnicas específicas y a medida que se avanza, 
+                          estas se vuelven más complejas. Cabe mencionar que cada grado también tiene niveles intermedios, 
+                          que se asignan según el caso.</p>  
                     </div>
-                  <!--<img class="media-object" src="assets/img/modelo/grado.png" width="70px" alt="img">-->
-                  <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
+                  <div class="modal-footer">
+                    <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
+                  </div>
+                </div>
+              </div>
+            </div>
                     <h4>PROMOCIÓN DE GRADO</h4>
                     <p>Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
                       surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
@@ -249,7 +262,50 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/sparring.png" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/sparring.png" data-toggle="modal" data-target="#exampleModal" width="75px" alt="img">
+                  <!-- Button trigger modal 
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                    Launch demo modal
+                  </button> -->
+                        <!-- Modal -->
+                  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Taller de Sparring</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                    <div class="modal-body">
+                          <p>El taller de sparring emerge como un programa esencial, diseñado para introducir a los 
+                          alumnos en el mundo del combate, analizar sus técnicas y realizar correcciones precisas. 
+                          Aquí, las instrucciones directas se ofrecen mientras los alumnos se entregan al sparring, 
+                          permitiendo una base sólida para ganar confianza en la aplicación de las técnicas adquiridas 
+                          durante las clases regulares.</p>
+                          <p>Una distinción clave entre el taller de sparring y el Club de la Pelea radica en la 
+                          dinámica del entrenamiento. En el taller de sparring, se brindan instrucciones para guiar 
+                          a los alumnos hacia un entendimiento más profundo del combate. 
+                          El objetivo principal es perfeccionar la técnica y adquirir la seguridad necesaria para 
+                          aplicarlas en situaciones reales.</p>
+                          <p>Por otro lado, el Club de la Pelea adopta un enfoque diferente. Aquí, la esencia se 
+                          basa en la libertad y la acción sin restricciones. A diferencia del taller de sparring, 
+                          en el Club de la Pelea, no se proporcionan indicaciones durante el combate. 
+                          Los participantes experimentan un escenario más libre, donde tienen la oportunidad de 
+                          aplicar sus habilidades y estrategias sin instrucciones directas.</p>
+                          <p>En resumen, el taller de sparring es el punto de partida esencial para comprender 
+                          el combate, perfeccionar las técnicas y ganar confianza. En contraste, 
+                          el Club de la Pelea se centra en proporcionar a los alumnos una plataforma donde pueden 
+                          ejercer su autonomía y aplicar sus habilidades en situaciones más dinámicas y desafiantes. 
+                          Ambos programas son valiosos, contribuyendo de manera única al crecimiento y desarrollo de 
+                          los alumnos en las artes marciales.</p>
+                    </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
+                  </div>
+                </div>
+              </div>
+            </div>
                     <h4>TALLER DE SPARRING</h4>
                     <p>El taller de sparring emerge como un programa esencial, diseñado para introducir a los alumnos 
                        en el mundo del combate, analizar sus técnicas y realizar correcciones precisas. 
@@ -259,15 +315,196 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal2" width="75px" alt="img">
+                        <!-- Modal -->
+                  <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Club de la Pelea</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                    <div class="modal-body">
+                          <p>El Club de la Pelea: Cultivando Habilidades a Través de la Experiencia.</p>
+                          <p>El Club de la Pelea tiene una misión clara: expandir las capacidades más 
+                            allá de lo meramente combativo. Si bien el enfoque radica en el dominio de las artes 
+                            marciales, este programa va más allá al brindar habilidades esenciales, desde el arte 
+                            del coaching hasta el análisis crítico como jueces y referees. 
+                            Aquí, compartimos una visión más detallada de lo que el Club de la Pelea representa:</p>
+                          <p>Beneficios como Peleador del Club de la Pelea: Las competencias combativas son un campo 
+                            fértil para la experiencia y el crecimiento personal. La práctica en el tatami debe reflejar 
+                            lo aprendido en el dojo. Los beneficios clave incluyen:</p>
+                          <p>    Confianza: Enfrentar desafíos aporta confianza en todas las áreas de la vida.
+
+Experiencias enriquecedoras: Cada combate brinda lecciones invaluables.
+
+Desarrollo combativo: Habilidades tácticas y estratégicas mejoran.
+
+Seguridad personal: Saber cómo reaccionar en situaciones competitivas y de presión.
+
+Exploración emocional: Una oportunidad para explorar control emocional en situaciones intensas.
+
+Reducción de estrés: La descarga emocional es esencial en el bienestar general.
+
+Habilidades valiosas: Desarrollo de la toma de decisiones rápida y precisa.
+
+Control de temores: Enfrentarlos en el tatami fortalece la resiliencia.</p>
+                          <p>Dónde se realiza el Club de la Pelea: El Club de la Pelea encuentra su hogar en las instalaciones de la academia Liceo-Palestra. Exclusivo para el alumnado activo de la academia, se plantea como una oportunidad de crecimiento y mejora continua.
+
+Costo y Fechas de Eventos: Este programa es totalmente gratuito. Los eventos se llevarán a cabo cada 30 días, asegurando una participación constante y un enriquecimiento gradual.
+
+Temática del Club de la Pelea: La experiencia se llevará a cabo en un entorno simulado, similar a un evento real. Desde el ring hasta las luces, cada detalle se cuidará para recrear la atmósfera de una competencia.</p>
+                          <p>Novedades en el Club de la Pelea: El Club de la Pelea innova en la capacitación a través de las siguientes adiciones:</p>
+                          <p>    Coaching: Los alumnos aprenderán a coachear a sus compañeros, fortaleciendo habilidades estratégicas y de liderazgo.
+
+Jueceo: Los alumnos tendrán la oportunidad de actuar como jueces, adquiriendo una perspectiva más profunda de las decisiones en el combate.
+
+Refereo: La experiencia única de ser un referee directamente desde el ring, proporcionando una nueva dimensión de aprendizaje.
+
+Premiación Significativa: Cada participante, independientemente del resultado, recibirá una medalla que resaltará el valor de la experiencia.
+
+Resultados: Cada combate tendrá un ganador declarado o empate. Esta decisión se toma con la finalidad de cultivar en los alumnos la capacidad de asimilar tanto la victoria como la derrota. Reconocemos que enfrentar la derrota puede ser un desafío, y a través de este enfoque, buscamos no solo celebrar los triunfos, sino también fomentar un profundo respeto hacia los adversarios, sin importar el resultado. </p>
+                          <p>Solicitar tu Rol: Alumnos con grados pueden solicitar roles específicos previo al evento. Los roles están limitados para cada ocasión.
+
+En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino que también cultiva cualidades como liderazgo, resiliencia y toma de decisiones bajo presión. Este programa representa una valiosa oportunidad para elevarse como peleador y como individuo, abrazando cada desafío en el camino. ¡Todos los alumnos son bienvenidos a esta aventura de crecimiento y aprendizaje constante!</p>
+                    </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
+                  </div>
+                  </div>
+                </div>
+                </div>
                     <h4>CLUB DE LA PELEA</h4>
                     <p>El Club de la Pelea tiene una misión clara: expandir las capacidades más allá de lo meramente combativo. 
                       Si bien el enfoque radica en el dominio de las artes marciales, este programa va más allá al brindar 
                       habilidades esenciales, desde el arte del coaching hasta el análisis crítico como jueces y referees. </p>
+              </div>
+            </div>
+
+            <div class="mu-features-content">
+              <div class="row gx-1 justify-content-center">
+            </div>
+                <div class="col-lg-3 col-md-6">
+                  
+                </div>
+                <div class="col-lg-3 col-md-6">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal3" width="75px" alt="img">
+                  <!-- Modal -->
+                  <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Selección Brikan</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                    <div class="modal-body">
+                          <p>La selección de peleadores ocupa un rol crucial e imprescindible, 
+                            ya que recae sobre ellos la responsabilidad representativa, competitiva y de rendimiento 
+                            para la academia, institución o escuela que respaldan. Ingresar a la selección de peleadores 
+                            no es tarea sencilla, ya que implica una evaluación minuciosa de diversos factores en cada candidato, 
+                            incluyendo el tiempo de entrenamiento, habilidades técnicas y condición física, entre otros aspectos 
+                            cruciales.</p>
+                          <p>Los afortunados que conforman este exclusivo grupo de peleadores élite asumen una encomienda 
+                            de gran magnitud respecto a su entrenamiento. Ser un miembro de la selección BRIKAN implica 
+                            someterse a un programa de formación específicamente diseñado para el combate, caracterizado 
+                            por su exigencia y rigor.</p>
+                          <p>La inclusión en la selección BRIKAN no es limitada, sino que está abierta a todos aquellos 
+                            que demuestren las aptitudes necesarias. La convocatoria se realiza a través de invitaciones, 
+                            brindando a cada individuo la oportunidad de unirse a este selecto equipo.</p>
+                          <p>El campamento de peleadores BRIKAN se estableció oficialmente el 8 de septiembre de 2021, 
+                            marcando el inicio de un viaje de preparación intenso y enfocado en el desarrollo de 
+                            habilidades. El primer campamento, que transcurrió desde el 8 de septiembre de 2021 hasta 
+                            el 2 de mayo de 2022, se ha completado satisfactoriamente.</p>
+                    </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
                   </div>
+                  </div>
+                </div>
+                </div>
+                    <h4>SELECCIÓN BRIKAN</h4>
+                    <p>La selección de peleadores ocupa un rol crucial e imprescindible, 
+                      ya que recae sobre ellos la responsabilidad representativa, competitiva y de rendimiento para 
+                      la academia, institución o escuela que respaldan. Ingresar a la selección de peleadores no es 
+                      tarea sencilla, ya que implica una evaluación minuciosa de diversos factores en cada candidato, 
+                      incluyendo el tiempo de entrenamiento, habilidades técnicas y condición física, 
+                      entre otros aspectos cruciales.</p>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                  <div class="mu-single-feature">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal4" width="75px" alt="img">
+                  <!-- Modal -->
+                  <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Conexión Kids</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                    <div class="modal-body">
+                          <p>Las artes marciales son más que una disciplina física; son un camino hacia la 
+                            autodisciplina, la confianza y el respeto mutuo. El programa "Conexión Kids" 
+                            reconoce esta valiosa plataforma y la canaliza hacia un propósito más amplio: brindar a los
+                             adolescentes la oportunidad de crear empatía con los más pequeños a través de su pasión 
+                             por las artes marciales.</p>
+                          <p>En el corazón de "Conexión Kids" se encuentra el deseo de los adolescentes de ser un 
+                            apoyo sólido para los niños en sus primeros pasos en el mundo de las artes marciales y, 
+                            por extensión, en la vida. Los adolescentes, en su etapa de aprendizaje y desarrollo, 
+                            encuentran en este programa una plataforma donde pueden transmitir conocimientos mientras 
+                            se embarcan en su propio viaje de tutoría. A medida que guían a los más pequeños a través 
+                            de los movimientos y técnicas, también están guiando su propio crecimiento como mentores.</p>
+                          <p>Este programa no solo se trata de mejorar las habilidades en el tatami, sino de tejer 
+                            lazos humanos genuinos. Los niños sienten el apoyo y el aliento de sus compañeros mayores, 
+                            lo que alimenta su confianza y les da la valentía para enfrentar nuevos desafíos. 
+                            Por otro lado, los adolescentes se convierten en modelos a seguir, internalizando la 
+                            responsabilidad y el impacto positivo que pueden tener en los demás.</p>
+                          <p>"Conexión Kids" es un ejemplo hermoso de cómo las artes marciales pueden trascender el 
+                            ámbito físico y convertirse en herramientas de cambio social. A medida que los adolescentes 
+                            aprenden a ser tutores, desarrollan habilidades de comunicación, liderazgo y empatía. 
+                            Estas habilidades no solo son vitales en el mundo de las artes marciales, sino también en 
+                            todas las áreas de la vida.</p>
+                            <p>En última instancia, "Conexión Kids" es más que un programa; es un movimiento hacia un 
+                              mundo más conectado y compasivo. A través de las artes marciales, se teje un puente de 
+                              empatía entre las generaciones, permitiendo que los más jóvenes se conviertan en pilares 
+                              de apoyo y guía para los pequeños. Y mientras transmiten sus conocimientos, 
+                              los adolescentes también transmiten valores fundamentales, fortaleciendo el tejido mismo 
+                              de la sociedad.</p>
+                            <p>En conclusión, "Conexión Kids" representa una oportunidad dorada para aprovechar la 
+                              pasión de los adolescentes por las artes marciales y dirigirla hacia la construcción de 
+                              relaciones significativas. A través de esta iniciativa, los adolescentes no solo están 
+                              enseñando técnicas, sino también valores eternos: empatía, apoyo mutuo y un sentido de 
+                              responsabilidad hacia los demás. En un mundo donde la conexión real es a menudo eclipsada 
+                              por la virtualidad, "Conexión Kids" nos recuerda que el auténtico poder radica en nuestras 
+                              manos, y en nuestros corazones.</p>
+                    </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
+                  </div>
+                  </div>
+                </div>
+                </div>
+                    <h4>CONEXIÓN KIDS</h4>
+                    <p>En un mundo que avanza a pasos agigantados, donde la tecnología nos conecta de formas nuevas 
+                      pero también nos distancia, surge una necesidad apremiante: cultivar la empatía y la calidad 
+                      humana en las generaciones más jóvenes. Este desafío es el motor detrás de la creación del 
+                      programa "Conexión Kids", una iniciativa poderosa que utiliza las artes marciales como vehículo 
+                      para fomentar relaciones auténticas y fortalecer el lazo intergeneracional.</p>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                  
                 </div>
               </div>
             </div>
+            
             <!-- End features content -->
           </div>
         </div>
@@ -280,42 +517,6 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12">
-          <div class="mu-features-area">
-            <!-- Start Title -->
-            <div class="mu-title">
-            </div>
-            <!-- End Title -->
-            <!-- Start features content -->
-            <div class="mu-features-content">
-              <div class="row">
-                <div class="col-lg-4 col-md-12">
-                  <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
-                  <!--<span style="background-image: url(assets/img/modelo/brikan.png);"></span>-->
-                    <h4>SELECCIÓN BRIKAN</h4>
-                    <p>La selección de peleadores ocupa un rol crucial e imprescindible, ya que recae sobre ellos la responsabilidad representativa, 
-                      competitiva y de rendimiento para la academia, institución o escuela que respaldan. Ingresar a la selección de peleadores no es tarea sencilla, 
-                      ya que implica una evaluación minuciosa de diversos factores en cada candidato.</p>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                  <div class="mu-single-feature">
-                  
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                  <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/brikan.png" width="70px" alt="img">
-                    <h4>CONEXIÓN KIDS</h4>
-                    <p>En el corazón de "Conexión Kids" se encuentra el deseo de los adolescentes de ser un apoyo sólido para los niños en sus primeros pasos en el 
-                      mundo de las artes marciales y, por extensión, en la vida. Los adolescentes, en su etapa de aprendizaje y desarrollo, encuentran en este 
-                      programa una plataforma donde pueden transmitir conocimientos mientras se embarcan en su propio viaje de tutoría.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- End features content -->
-          </div>
           <div class="centrado">
               <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
           </div>
