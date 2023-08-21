@@ -160,21 +160,9 @@
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
                           <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <!--<figcaption class="mu-latest-course-imgcaption">
-                            <a href="#">Drawing</a>
-                            <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>-->
                         </figure>
                         <div class="mu-latest-course-single-content">
                           <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
-                          <!--<h4>Course Information</h4>
-                          <ul>
-                            <li> <span>Course Price</span> <span>$250</span></li>
-                            <li> <span>Place</span> <span>California,USA</span></li>
-                            <li> <span>Total Students</span> <span>800+</span></li>
-                            <li> <span>Course Duration</span> <span>4 Weeks</span></li>
-                            <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>-->
                           <h4>¿Quiénes somos?</h4>
                           <p>Liceo-Palestra: Forjando la Excelencia a través de las Artes Marciales</p>
                           <p>Liceo-Palestra, una academia joven, abrió sus puertas el 6 de enero de 2020.
