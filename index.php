@@ -97,9 +97,9 @@
           </button>
           <!-- LOGO -->              
           <!-- TEXT BASED LOGO 
-          <a class="navbar-brand" href="index.php"><i class="fa fa-university"></i><span class="dalek">LICEO-PALESTRA</span></a>-->
+          -->
           <!-- IMG BASED LOGO  -->
-          <a class="navbar-brand" href="index.php"><img src="assets/img/logo_principal.jpg" width="150px" alt="logo"></a> 
+          <a class="navbar-brand" href="index.php"><img src="assets/img/logo_principal.jpg" width="150px" alt="logo"></a><a class="navbar-brand" id="title-secundary" href="index.php"><i></i><span> | Academia de Kickboxing</span></a> 
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
