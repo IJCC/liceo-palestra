@@ -185,13 +185,12 @@
                 <div class="col-md-4 col-sm-4">
                   <article class="mu-blog-single-item">
                     <figure class="mu-blog-single-img">
-                      <!--<a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>-->
-                      <a id="mu-abtus-video" href="https://www.youtube.com/watch?v=j0bZvo8LcJI&t=126s" target="mutube-video">
-                        <img src="assets/img/about-us.jpg" alt="img">
-                      </a>  
-                      <figcaption class="mu-blog-caption">
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                    </div>
+                    <figcaption class="mu-blog-caption">
                         <h5>"Hacemos Nuestra Academia Aún Más Divertida"</h5>
-                      </figcaption>                      
+                    </figcaption>                      
                     </figure>
                     <div class="mu-blog-meta"> 
                     </div>
@@ -200,10 +199,9 @@
                 <div class="col-md-4 col-sm-4">
                   <article class="mu-blog-single-item">
                   <figure class="mu-blog-single-img">
-                      <!--<a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>-->
-                      <a id="mu-abtus-video" href="https://www.youtube.com/watch?v=YKgdVSmMwjo" target="mutube-video">
-                        <img src="assets/img/about-us.jpg" alt="img">
-                      </a>  
+                  <div class="embed-responsive embed-responsive-16by9">
+                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                    </div>
                       <figcaption class="mu-blog-caption">
                         <h5>"Su Voz Cuenta: Mejorando Juntos Nuestra Experiencia"</h5>
                       </figcaption>                          
@@ -215,10 +213,9 @@
                 <div class="col-md-4 col-sm-4">
                   <article class="mu-blog-single-item">
                   <figure class="mu-blog-single-img">
-                      <!--<a href="#"><img src="assets/img/blog/blog-1.jpg" alt="img"></a>-->
-                      <a id="mu-abtus-video" href="https://www.youtube.com/watch?v=YKgdVSmMwjo" target="mutube-video">
-                        <img src="assets/img/about-us.jpg" alt="img">
-                      </a>  
+                  <div class="embed-responsive embed-responsive-16by9">
+                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                    </div>
                       <figcaption class="mu-blog-caption">
                       <h5>"Pendiente"</h5>
                       </figcaption>                      
@@ -308,6 +305,8 @@
               <div class="row">
                 <div class="col-lg-12">
                   <div class="mu-single-feature">
+                    <div class="card">
+                      <div class="card-body">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
@@ -315,6 +314,8 @@
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
                     </p>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -326,6 +327,12 @@
     </div>
   </section>
   <!-- End features section -->
+
+  <div class="mu-latest-course-single">
+  <div class="mu-latest-course-single">
+    Ejemplo de panel muy sencillo
+  </div>
+</div>
 
   <!-- Start latest course section -->
   <section id="mu-latest-courses">
@@ -463,6 +470,8 @@
     </div>
   </section>
   <!-- End latest course section -->
+
+ 
 
   <!-- Start our teacher -->
   <section id="mu-our-teacher">
