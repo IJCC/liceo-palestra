@@ -391,7 +391,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal3" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/brikan.png" data-toggle="modal" data-target="#exampleModal3" width="75px" alt="img">
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
@@ -438,7 +438,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal4" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/kids.png" data-toggle="modal" data-target="#exampleModal4" width="75px" alt="img">
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
