@@ -531,7 +531,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
   <!-- End features section --> 
 
    <!-- Start footer -->
-   <footer id="mu-footer">
+  <footer id="mu-footer">
     <!-- start footer top -->
     <div class="mu-footer-top">
       <div class="container">
@@ -541,12 +541,12 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
               <div class="mu-footer-widget">
                 <h4>Información</h4>
                 <ul>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="">Features</a></li>
-                  <li><a href="">Course</a></li>
-                  <li><a href="">Event</a></li>
-                  <li><a href="">Sitemap</a></li>
-                  <li><a href="">Term Of Use</a></li>
+                  <li><a href="conocenos.php">Conócenos</a></li>
+                  <li><a href="valores.php">Nuestros Valores</a></li>
+                  <li><a href="modelo-educativo.php">Modelo Educativo</a></li>
+                  <li><a href="eventos.php">Eventos</a></li>
+                  <li><a href="equipos.php">Equipos de Entrenamiento</a></li>
+                  <!--<li><a href="">Term Of Use</a></li>-->
                 </ul>
               </div>
             </div>
@@ -554,11 +554,11 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
               <div class="mu-footer-widget">
                 <h4>Estudiantes</h4>
                 <ul>
-                  <li><a href="">Get Started</a></li>
-                  <li><a href="#">My Questions</a></li>
-                  <li><a href="">Download Files</a></li>
-                  <li><a href="">Latest Course</a></li>
-                  <li><a href="">Academic News</a></li>                  
+                  <li><a href="#">Reglamento Interno</a></li>
+                  <li><a href="#">Reglamento Uniforme</a></li>
+                  <li><a href="#">Reglamento Brikan</a></li>
+                  <!--<li><a href="">Latest Course</a></li>
+                  <li><a href="">Academic News</a></li>-->                  
                 </ul>
               </div>
             </div>

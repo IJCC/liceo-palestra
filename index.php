@@ -723,12 +723,12 @@
               <div class="mu-footer-widget">
                 <h4>Información</h4>
                 <ul>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="">Features</a></li>
-                  <li><a href="">Course</a></li>
-                  <li><a href="">Event</a></li>
-                  <li><a href="">Sitemap</a></li>
-                  <li><a href="">Term Of Use</a></li>
+                  <li><a href="conocenos.php">Conócenos</a></li>
+                  <li><a href="valores.php">Nuestros Valores</a></li>
+                  <li><a href="modelo-educativo.php">Modelo Educativo</a></li>
+                  <li><a href="eventos.php">Eventos</a></li>
+                  <li><a href="equipos.php">Equipos de Entrenamiento</a></li>
+                  <!--<li><a href="">Term Of Use</a></li>-->
                 </ul>
               </div>
             </div>
@@ -736,24 +736,14 @@
               <div class="mu-footer-widget">
                 <h4>Estudiantes</h4>
                 <ul>
-                  <li><a href="">Get Started</a></li>
-                  <li><a href="#">My Questions</a></li>
-                  <li><a href="">Download Files</a></li>
-                  <li><a href="">Latest Course</a></li>
-                  <li><a href="">Academic News</a></li>                  
+                  <li><a href="#">Reglamento Interno</a></li>
+                  <li><a href="#">Reglamento Uniforme</a></li>
+                  <li><a href="#">Reglamento Brikan</a></li>
+                  <!--<li><a href="">Latest Course</a></li>
+                  <li><a href="">Academic News</a></li>-->                  
                 </ul>
               </div>
             </div>
-            <!--<div class="col-lg-3 col-md-3 col-sm-3">
-              <div class="mu-footer-widget">
-                <h4>News letter</h4>
-                <p>Get latest update, news & academic offers</p>
-                <form class="mu-subscribe-form">
-                  <input type="email" placeholder="Type your Email">
-                  <button class="mu-subscribe-btn" type="submit">Subscribe!</button>
-                </form>               
-              </div>
-            </div>-->
             <div class="col-lg-4 col-md-4 col-sm-4">
               <div class="mu-footer-widget">
                 <h4>Contacto</h4>
