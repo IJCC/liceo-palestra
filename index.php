@@ -176,7 +176,7 @@
           <div class="mu-from-blog-area">
             <!-- start title -->
             <div class="mu-title">
-              <h2>Conoce la Opinión de Nuestros Alumnos</h2>
+              <h2 id="title-red">Conoce la Opinión de Nuestros Alumnos</h2>
             </div>
             <!-- end title -->  
             <!-- start from blog content   -->
@@ -235,7 +235,6 @@
   <!-- End from blog -->
 
   <!-- Start about us -->
-  
   <!-- End about us -->
 
   <!-- Start about us counter -->
@@ -294,31 +293,36 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-body">
           <div class="mu-features-area">
             <!-- Start Title -->
             <div class="mu-title">
-              <h2>Nuestra Visión</h2>
+              <h2 id="title-red">Nuestra Visión</h2>
             </div>
             <!-- End Title -->
             <!-- Start features content -->
             <div class="mu-features-content">
               <div class="row">
                 <div class="col-lg-12">
-                  <div class="mu-single-feature">
-                    <div class="card">
-                      <div class="card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus non dolorem excepturi libero itaque sint labore similique maxime natus eum.
+                  <div class="mu-single-feature">                 
+                    <p>"Nuestra visión es transformar nuestra academia en una institución educativa líderen el
+                        ámbito de las artes marciales. Estamos comprometidos en desarrollar un modelo educativo
+                        de vanguardia, superando las expectativas tradicionales de un dojo o academia. Nos
+                        esforzamos por ofrecer un plan educativo sólido y progresivo que trascienda, brindando a
+                        nuestros estudiantes una experiencia enriquecedora y transformadora. En nuestro camino
+                        hacia esta visión, nos esforzamos por crear un entorno donde la excelencia educativa se 
+                        une con la pasión por las artes marciales, cultivando individuos con habilidades sobresalientes
+                        y un profundo conocimiento, tanto en el tatami como en la vida. Además, buscamos ser la plataforma
+                        para la formación profesional de futuros instructures, brindando un espacio donde puedan adquirir
+                        las habilidades y el conocimientos necesarios para guiar a las proximas generaciones en
+                        su viaje de autodescubrimiento y crecimiento personal." 
                     </p>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
+            </div>
+            </div>
             </div>
             <!-- End features content -->
           </div>
@@ -327,13 +331,6 @@
     </div>
   </section>
   <!-- End features section -->
-
-  <div class="mu-latest-course-single">
-  <div class="mu-latest-course-single">
-    Ejemplo de panel muy sencillo
-  </div>
-</div>
-
   <!-- Start latest course section -->
   <section id="mu-latest-courses">
     <div class="container">
