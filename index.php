@@ -190,6 +190,7 @@
                     </div>
                     <figcaption class="mu-blog-caption">
                         <h5>"Hacemos Nuestra Academia Aún Más Divertida"</h5>
+                        <h4>Palestra | Kids</h4>
                     </figcaption>                      
                     </figure>
                     <div class="mu-blog-meta"> 
@@ -204,6 +205,7 @@
                     </div>
                       <figcaption class="mu-blog-caption">
                         <h5>"Su Voz Cuenta: Mejorando Juntos Nuestra Experiencia"</h5>
+                        <h4>Palestra | Adolescentes</h4>
                       </figcaption>                          
                     </figure>
                     <div class="mu-blog-meta">
@@ -218,6 +220,7 @@
                     </div>
                       <figcaption class="mu-blog-caption">
                       <h5>"Pendiente"</h5>
+                      <h4>Palestra | Adultos</h4>
                       </figcaption>                      
                     </figure>
                     <div class="mu-blog-meta">
