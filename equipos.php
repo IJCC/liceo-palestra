@@ -177,8 +177,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$350.00</span>
                             </div>
                           </div>
                         </div>
@@ -195,8 +195,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$250.00</span>
                             </div>
                           </div>
                         </div>
@@ -213,8 +213,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$550.00</span>
                             </div>
                           </div>
                         </div>
@@ -231,8 +231,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$380.00</span>
                             </div>
                           </div>
                         </div>
@@ -249,8 +249,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$800.00</span>
                             </div>
                           </div>
                         </div>
@@ -267,8 +267,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$995.00</span>
                             </div>
                           </div>
                         </div>
@@ -285,8 +285,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$390.00</span>
                             </div>
                           </div>
                         </div>
@@ -303,8 +303,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$800.00</span>
                             </div>
                           </div>
                         </div>
@@ -321,8 +321,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$890.00</span>
                             </div>
                           </div>
                         </div>
@@ -339,8 +339,8 @@
                             <h4><a href="">Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$1900.00</span>
                             </div>
                           </div>
                         </div>
@@ -357,8 +357,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$375.00</span>
                             </div>
                           </div>
                         </div>
@@ -375,8 +375,8 @@
                             <h4><a href="">Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$325.00</span>
                             </div>
                           </div>
                         </div>
@@ -393,8 +393,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$300.00</span>
                             </div>
                           </div>
                         </div>
@@ -411,8 +411,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$100.00</span>
                             </div>
                           </div>
                         </div>
@@ -429,8 +429,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$90.00</span>
                             </div>
                           </div>
                         </div>
@@ -447,8 +447,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$325.00</span>
                             </div>
                           </div>
                         </div>
@@ -465,8 +465,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$650.00</span>
                             </div>
                           </div>
                         </div>
@@ -483,8 +483,8 @@
                             <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a class="mu-course-details">Details</a>
-                              <span class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details"></a>
+                              <span class="mu-course-price">$220.00</span>
                             </div>
                           </div>
                         </div>
