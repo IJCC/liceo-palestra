@@ -168,18 +168,17 @@
                       <div class="col-md-6">
                         <div class="mu-latest-course-single">
                           <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <a><img alt="img" src="assets/img/tienda/concha_femenina.jpg"></a>
                             <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                              <a>Concha Femenina ADX</a>
                             </figcaption>
                           </figure>
                           <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
                             </div>
                           </div>
                         </div>
@@ -187,18 +186,17 @@
                       <div class="col-md-6">
                         <div class="mu-latest-course-single">
                           <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/2.jpg"></a>
+                            <a><img alt="img" src="assets/img/tienda/concha_masculina.jpg"></a>
                             <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                              <a>Concha Masculina Nexus</a>
                             </figcaption>
                           </figure>
                           <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
                             </div>
                           </div>
                         </div>
@@ -206,18 +204,17 @@
                       <div class="col-md-6">
                         <div class="mu-latest-course-single">
                           <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/3.jpg"></a>
+                            <a><img alt="img" src="assets/img/tienda/espinillera1.jpg"></a>
                             <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                              <a>Espinillera Protect</a>
                             </figcaption>
                           </figure>
                           <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
                             </div>
                           </div>
                         </div>
@@ -225,18 +222,269 @@
                       <div class="col-md-6">
                         <div class="mu-latest-course-single">
                           <figure class="mu-latest-course-img">
-                            <a href="#"><img alt="img" src="assets/img/courses/1.jpg"></a>
+                            <a><img alt="img" src="assets/img/tienda/espinillera2.jpg"></a>
                             <figcaption class="mu-latest-course-imgcaption">
-                              <a href="#">Drawing</a>
-                              <span><i class="fa fa-clock-o"></i>90Days</span>
+                              <a>Espinilleras Nexus</a>
                             </figcaption>
                           </figure>
                           <div class="mu-latest-course-single-content">
-                            <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
                             <div class="mu-latest-course-single-contbottom">
-                              <a href="#" class="mu-course-details">Details</a>
-                              <span href="#" class="mu-course-price">$165.00</span>
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes Asiana</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes2.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes Contender Gold Back Venum</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes3.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes Nexus Elite</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes4.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes RingHorns 10 onz</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes5.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes Venum Contender 10onz</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/guantes6.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Guantes Venum elite</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/manoplas.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Manoplas Vinil ZPDA</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/playera1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Playera Uniforme Oficial</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a href="">Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/portacinturon.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Porta Cinturones Liceo-Palestra</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/protector1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Protector Bucal Braquets</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/protector2.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Protevtor Bucal Doble Sencillo</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/short1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Short uniforme Oficial</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/uniforme1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Uniforme Completo</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="mu-latest-course-single">
+                          <figure class="mu-latest-course-img">
+                            <a><img alt="img" src="assets/img/tienda/vendas1.jpg"></a>
+                            <figcaption class="mu-latest-course-imgcaption">
+                              <a>Vendas Semi Elasticas ADX</a>
+                            </figcaption>
+                          </figure>
+                          <div class="mu-latest-course-single-content">
+                            <h4><a>Lorem ipsum dolor sit amet.</a></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet quod nisi quisquam modi dolore, dicta obcaecati architecto quidem ullam quia.</p>
+                            <div class="mu-latest-course-single-contbottom">
+                              <a class="mu-course-details">Details</a>
+                              <span class="mu-course-price">$165.00</span>
                             </div>
                           </div>
                         </div>
@@ -303,7 +551,7 @@
                 <ul>
                   <li><a href="conocenos.php">Conócenos</a></li>
                   <li><a href="valores.php">Nuestros Valores</a></li>
-                  <li><a href="modelo-educativo.php">Modelo Educativo</a></li>
+                  <li><a href="modelo-academico.php">Modelo Educativo</a></li>
                   <li><a href="eventos.php">Eventos</a></li>
                   <li><a href="equipos.php">Equipos de Entrenamiento</a></li>
                   <!--<li><a href="">Term Of Use</a></li>-->

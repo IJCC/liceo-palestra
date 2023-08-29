@@ -279,7 +279,7 @@
                 <ul>
                   <li><a href="conocenos.php">Conócenos</a></li>
                   <li><a href="valores.php">Nuestros Valores</a></li>
-                  <li><a href="modelo-educativo.php">Modelo Educativo</a></li>
+                  <li><a href="modelo-academico.php">Modelo Educativo</a></li>
                   <li><a href="eventos.php">Eventos</a></li>
                   <li><a href="equipos.php">Equipos de Entrenamiento</a></li>
                   <!--<li><a href="">Term Of Use</a></li>-->
