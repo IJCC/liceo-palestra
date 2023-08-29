@@ -157,14 +157,20 @@
                 <div class="mu-about-us-left">
                   <!-- Start Title -->
                   <div class="mu-title">
-                    <h2>MODELO ACADÉMICO</h2>              
+                    <h2 class="title-modelo">MODELO ACADÉMICO</h2>              
                   </div>
                   <!-- End Title -->
-                  <p>En nuestra etapa de formación, la estructura academica se divide por etapas, 
-                    las cuales poseen distintos grados, técnicas y habilidades. Es necesario dominar 
-                    cada nivel antes de pasar al siguiente, siguiendo el programa de entrenamiento. 
-                    Esto asegura un aprendizaje sólido en cada etapa. Nuestro objetivo es garantizar 
-                    el éxito y crecimiento de nuestros alumnos en las artes marciales. </p>
+                  <p>En Liceo-Palestra, creamos y seguimos un modelo educativo progresivo, construyendo cada nivel sobre bases sólidas. 
+                    Nuestros programas guiados te llevan a través de un viaje continuo en las artes marciales, desde los fundamentos hasta técnicas avanzadas. 
+                    Con instructores altamente capacitados, te brindamos un entrenamiento físico y personal único, cultivando confianza, autodisciplina y autodeterminación 
+                    en cada estudiante.</p>
+                  <div class="mu-title">
+                    <br>
+                  <h2 class="title-programa">NUESTROS PROGRAMAS</h2>              
+                  </div>
+                  <p>Nuestros programas ofrecen una serie de ventajas notables. Mediante un enfoque progresivo y coherente brindamos a nuestros alumnos la oportunidad 
+                    de desarrollar sus habilidades de manera sólida y gradual. Cada programa construye sobre la anterior, permitiendo que nuestros alumnos alcancen niveles 
+                    de destreza y confianza en las artes marciales.</p>
                   <ul>
                   <blockquote>
                     <p class="title-negrita">Fase de Aprendizaje.</p>

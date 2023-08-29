@@ -101,6 +101,12 @@ body {
   -webkit-transform: scale(1.1); /* Safari 3-8 */
   transform: scale(1.1); 
 }
+.title-modelo{
+  font-size: 25px;
+}
+.title-programa{
+  font-size: 18px;
+}
 
 .no-padding {
   padding: 0;
