@@ -113,38 +113,37 @@
     </nav>
   </section>
   <!-- End menu -->
-  <!-- Start search box -->
-  <div id="mu-search">
-    <div class="mu-search-area">      
-      <button class="mu-search-close"><span class="fa fa-close"></span></button>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">            
-            <form class="mu-search-form">
-              <input type="search" placeholder="Type Your Keyword(s) & Hit Enter">
-            </form>
-          </div>
+  <!-- Start Slider -->
+  <section id="mu-slider">
+<<<<<<< HEAD
+  <div class="mu-slider-img">
+    <figure>
+        <div class="slider-image-container">
+            <img src="assets/img/slider/modelo2.jpg" alt="img" class="img-fluid">
         </div>
+    </figure>
+</div>
+
+</section>
+=======
+    <!-- Start single slider item -->
+    <div class="mu-slider-single">
+      <div class="mu-slider-img">
+        <figure>
+          <img src="assets/img/slider/modelo2.jpg" alt="img">
+        </figure>
       </div>
-    </div>
-  </div>
-  <!-- End search box -->
- <!-- Page breadcrumb -->
- <section id="mu-page-breadcrumb">
-   <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="mu-page-breadcrumb-area">
-           <h2>Eventos</h2>
-           <ol class="breadcrumb">
-            <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Eventos</li>
-          </ol>
-         </div>
-       </div>
-     </div>
-   </div>
- </section>
+      <div class="mu-slider-content">
+        <h4></h4>
+        <!--<span></span>-->
+        <h2></h2>
+        <p></p>
+        <!--<a href="#" class="mu-read-more-btn">Read More</a>-->
+      </div>
+    </div> 
+  </section>
+  <!-- End Slider -->
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
@@ -158,21 +157,24 @@
                     <div class="col-md-12">
                       <article class="mu-blog-single-item">
                         <figure class="mu-blog-single-img">
-                          <a href="#"><img alt="img" src="assets/img/blog/blog-3.jpg"></a>
+                          <a><img alt="img" src="assets/img/palestra_plaza_fiesta.jpg"></a>
                           <figcaption class="mu-blog-caption">
-                            <h3><a href="#">Lorem ipsum dolor sit amet.</a></h3>
+                            <h3><a>Exhibición de artes marciales en Plaza Fiesta.</a></h3>
                           </figcaption>                      
                         </figure>
                         <div class="mu-blog-meta">
-                          <a href="#">By Admin</a>
-                          <a href="#">02 June 2016</a>
-                          <span><i class="fa fa-comments-o"></i>87</span>
+                          <a>Liceo-Palestra</a>
+                          <a>16 de Julio de 2023</a>
+                          <a>3:00 pm</a>
                         </div>
                         <div class="mu-blog-description">
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ipsum non voluptatum eum repellendus quod aliquid. Vitae, dolorum voluptate quis repudiandae eos molestiae dolores enim.</p>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus autem molestias nostrum eius optio et rem, cum voluptatibus aperiam soluta reiciendis quae nisi, debitis totam harum nulla! Voluptatem commodi quis, atque labore, sapiente tempora temporibus, repellendus laboriosam sunt aut dolores laborum libero? Laudantium non, enim, repellat recusandae quisquam aperiam hic amet corporis ipsam. Similique velit ipsa, quasi assumenda consequuntur earum.</p>
+                          
                           <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas numquam quis obcaecati, a sed ad aut totam fugiat, cumque quasi!</p>                            
+                          <p>¡Quedan totalmente invitados, no falten!</p>
+                          <p>Exhibiciones de Rompimiento de Tablas.</p>
+                          <p>Presentaciones de Kickboxing y boxeo.</p>
+                          <p>Exhibiciones de cosplay.</p>
+                          <p>Formas marciales.</p>                        
                           </blockquote>
                           
                           
@@ -308,6 +310,15 @@
                     <h3 class="title-sidebar-service">Modelo Académico</h3>
                     <p class="paragraph-sidebar-service">Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
                   </div>
+                  <!-- start single sidebar -->
+                  <div class="mu-single-sidebar">
+                  <a href="horarios.php">
+                  <img class="img-single-service zoom-sidebar" src="assets/img/modelo.png" width="70px"  alt="logo">
+                  </a>
+                    <h3 class="title-sidebar-service">Horarios</h3>
+                    <p class="paragraph-sidebar-service">Texto pendiente.</p>
+                  </div>
+                  <!-- end single sidebar -->
                   <!-- end single sidebar -->
                   <!-- start single sidebar -->
                   <!-- end single sidebar -->
@@ -320,6 +331,30 @@
      </div>
    </div>
  </section>
+ 
+ <div class="whatsapp-button">
+        <button id="open-button">&#x1F4AC;</button>
+        <div class="whatsapp-box" id="whatsapp-box">
+            <button class="close-button" id="close-button">&#x2715;</button>
+            <p>¡Bienvenido a Liceo Palestra!</p>
+            <p>¡Hola! ¿En qué podemos ayudarte?</p>
+            <a href="https://api.whatsapp.com/send?phone=9992414324" target="_blank">Contactanos por WhatsApp</a>
+        </div>
+    </div>
+
+    <script>
+        const openButton = document.getElementById('open-button');
+        const closeButton = document.getElementById('close-button');
+        const whatsappBox = document.getElementById('whatsapp-box');
+
+        openButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'block';
+        });
+
+        closeButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'none';
+        });
+    </script>
 
    <!-- Start footer -->
   <footer id="mu-footer">

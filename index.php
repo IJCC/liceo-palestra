@@ -69,8 +69,8 @@
                 <div class="mu-header-top-right">
                   <nav>
                     <ul class="mu-top-social-nav">
-                      <li><a href="https://www.facebook.com/LiceoPalestra" target="_blank"><span class="fa fa-facebook"></span></a></li>
-                      <li><a href="https://instagram.com/liceo_palestra_mid?igshid=MzRlODBiNWFlZA==" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                      <li><a href="https://www.facebook.com/LiceoPalestra" target="_blank"><span class="fa fa-facebook" style="font-size: 20px;"></span></a></li>
+                      <li><a href="https://instagram.com/liceo_palestra_mid?igshid=MzRlODBiNWFlZA==" target="_blank"><span class="fa fa-instagram" style="font-size: 20px;"></span></a></li>
                       <!--<li><a href="#"><span class="fa fa-youtube"></span></a></li>-->
                     </ul>
                   </nav>
@@ -724,6 +724,36 @@
     </div>
   </section>
   <!-- End from blog -->
+<<<<<<< HEAD
+  
+  <div class="whatsapp-button">
+=======
+</head>
+
+    <div class="whatsapp-button">
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
+        <button id="open-button">&#x1F4AC;</button>
+        <div class="whatsapp-box" id="whatsapp-box">
+            <button class="close-button" id="close-button">&#x2715;</button>
+            <p>¡Bienvenido a Liceo Palestra!</p>
+            <p>¡Hola! ¿En qué podemos ayudarte?</p>
+            <a href="https://api.whatsapp.com/send?phone=9992414324" target="_blank">Contactanos por WhatsApp</a>
+        </div>
+    </div>
+
+    <script>
+        const openButton = document.getElementById('open-button');
+        const closeButton = document.getElementById('close-button');
+        const whatsappBox = document.getElementById('whatsapp-box');
+
+        openButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'block';
+        });
+
+        closeButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'none';
+        });
+    </script>
 
   <!-- Start footer -->
   <footer id="mu-footer">

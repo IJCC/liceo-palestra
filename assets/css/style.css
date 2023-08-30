@@ -105,6 +105,86 @@ body {
   width: 100%;
   height: auto;
 }
+@media (max-width: 767px) {
+  .mu-slider-img figure img {
+      width: 100%; /* Ajusta el ancho de la imagen para llenar el contenedor */
+      height: auto; /* Ajusta la altura automáticamente */
+      max-height: 500px; /* Puedes ajustar esta altura según tus necesidades */
+  }
+}
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.whatsapp-button button {
+  background-color: #4a0112;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.whatsapp-button .close-button {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.whatsapp-box {
+  display: none;
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  background-color: white;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  width: 300px;
+}
+
+
+.slider-image-container {
+<<<<<<< HEAD
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.slider-image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+=======
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.slider-image-container img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
 
 
 .no-padding {
@@ -308,7 +388,7 @@ img {
 /*scrol to top*/
 .scrollToTop {
   border-radius: 4px;
-  bottom: 60px;
+  bottom: 110px;
   color: #fff;
   display: none;
   font-size: 30px;

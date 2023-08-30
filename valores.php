@@ -111,39 +111,37 @@
     </nav>
   </section>
   <!-- End menu -->
-  <!-- Start search box -->
-  <div id="mu-search">
-    <div class="mu-search-area">      
-      <button class="mu-search-close"><span class="fa fa-close"></span></button>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">            
-            <form class="mu-search-form">
-              <input type="search" placeholder="Type Your Keyword(s) & Hit Enter">
-            </form>
-          </div>
+  <!-- Start Slider -->
+  <section id="mu-slider">
+<<<<<<< HEAD
+  <div class="mu-slider-img">
+    <figure>
+        <div class="slider-image-container">
+            <img src="assets/img/slider/modelo2.jpg" alt="img" class="img-fluid">
         </div>
+    </figure>
+</div>
+
+</section>
+=======
+    <!-- Start single slider item -->
+    <div class="mu-slider-single">
+      <div class="mu-slider-img">
+        <figure>
+          <img src="assets/img/slider/modelo2.jpg" alt="img">
+        </figure>
       </div>
-    </div>
-  </div>
-  <!-- End search box -->
- <!-- Page breadcrumb -->
- <section id="mu-page-breadcrumb">
-   <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="mu-page-breadcrumb-area">
-           <h2>Valores</h2>
-           <ol class="breadcrumb">
-            <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Valores</li>
-          </ol>
-         </div>
-       </div>
-     </div>
-   </div>
- </section>
- <!-- End breadcrumb -->
+      <div class="mu-slider-content">
+        <h4></h4>
+        <!--<span></span>-->
+        <h2></h2>
+        <p></p>
+        <!--<a href="#" class="mu-read-more-btn">Read More</a>-->
+      </div>
+    </div> 
+  </section>
+  <!-- End Slider -->
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
@@ -158,72 +156,10 @@
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
                           <a href="#"><img src="assets/img/courses/1.jpg" alt="img"></a>
-                          <!--<figcaption class="mu-latest-course-imgcaption">
-                            <a href="#">Drawing</a>
-                            <span><i class="fa fa-clock-o"></i>90Days</span>
-                          </figcaption>-->
                         </figure>
                         <div class="mu-latest-course-single-content">
                           <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
-                          <!--<h4>Course Information</h4>
-                          <ul>
-                            <li> <span>Course Price</span> <span>$250</span></li>
-                            <li> <span>Place</span> <span>California,USA</span></li>
-                            <li> <span>Total Students</span> <span>800+</span></li>
-                            <li> <span>Course Duration</span> <span>4 Weeks</span></li>
-                            <li> <span>Course Start</span> <span>July 25, 2016</span></li>
-                          </ul>-->
-                          <!--<h4>Course Outline</h4>
-                          <div class="table-responsive">
-                            <table class="table">
-                            <thead>
-                              <tr>
-                                <th> Title </th>
-                                <th> Course Time </th>
-                                <th> Spent Time </th>
-                                <th> Status </th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td> 1. Topic 1 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 2. Topic 2 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 3. Topic 3 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 4. Topic 4 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> Successful </td>
-                              </tr>
-                              <tr>
-                                <td> 5. Topic 5 </td>
-                                <td> 15:30 </td>
-                                <td> - </td>
-                                <td> Waiting </td>
-                              </tr>
-                              <tr>
-                                <td> 6. Topic 6 </td>
-                                <td> 15:30 </td>
-                                <td> 13:80 </td>
-                                <td> - </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          </div>-->
+                          
                           <h4>Nuestros Valores</h4>
                           <blockquote>
                             <p class="title-negrita">Disciplina</p>
@@ -313,6 +249,15 @@
                     <h3 class="title-sidebar-service">Modelo Académico</h3>
                     <p class="paragraph-sidebar-service">Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
                   </div>
+                  <!-- start single sidebar -->
+                  <div class="mu-single-sidebar">
+                  <a href="horarios.php">
+                  <img class="img-single-service zoom-sidebar" src="assets/img/modelo.png" width="70px"  alt="logo">
+                  </a>
+                    <h3 class="title-sidebar-service">Horarios</h3>
+                    <p class="paragraph-sidebar-service">Texto pendiente.</p>
+                  </div>
+                  <!-- end single sidebar -->
                   <!-- end single sidebar -->
                   <!-- start single sidebar -->
                   <!-- end single sidebar -->
@@ -325,6 +270,30 @@
      </div>
    </div>
  </section>
+ 
+ <div class="whatsapp-button">
+        <button id="open-button">&#x1F4AC;</button>
+        <div class="whatsapp-box" id="whatsapp-box">
+            <button class="close-button" id="close-button">&#x2715;</button>
+            <p>¡Bienvenido a Liceo Palestra!</p>
+            <p>¡Hola! ¿En qué podemos ayudarte?</p>
+            <a href="https://api.whatsapp.com/send?phone=9992414324" target="_blank">Contactanos por WhatsApp</a>
+        </div>
+    </div>
+
+    <script>
+        const openButton = document.getElementById('open-button');
+        const closeButton = document.getElementById('close-button');
+        const whatsappBox = document.getElementById('whatsapp-box');
+
+        openButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'block';
+        });
+
+        closeButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'none';
+        });
+    </script>
 
    <!-- Start footer -->
   <footer id="mu-footer">

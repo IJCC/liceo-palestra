@@ -114,38 +114,22 @@
     </nav>
   </section>
   <!-- End menu -->
-  <!-- Start search box -->
-  <div id="mu-search">
-    <div class="mu-search-area">      
-      <button class="mu-search-close"><span class="fa fa-close"></span></button>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">            
-            <form class="mu-search-form">
-              <input type="search" placeholder="Type Your Keyword(s) & Hit Enter">
-            </form>
-          </div>
+  <!-- Start Slider -->
+  <section id="mu-slider">
+  <div class="mu-slider-img">
+    <figure>
+        <div class="slider-image-container">
+            <img src="assets/img/slider/modelo2.jpg" alt="img" class="img-fluid">
         </div>
-      </div>
-    </div>
-  </div>
-  <!-- End search box -->
- <!-- Page breadcrumb -->
- <section id="mu-page-breadcrumb">
-   <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="mu-page-breadcrumb-area">
-           <h2>Modelo Académico</h2>
-           <ol class="breadcrumb">
-            <li><a href="index.php">Inicio</a></li>            
-            <li class="active">Modelo Académico</li>
-          </ol>
-         </div>
-       </div>
-     </div>
-   </div>
- </section>
+    </figure>
+</div>
+
+</section>
+<<<<<<< HEAD
+=======
+
+  <!-- End Slider -->
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <!-- Start about us -->
  <section id="mu-about-us">
     <div class="container">
@@ -185,10 +169,18 @@
                 </div>
               </div>
               <div class="col-lg-6 col-md-6">
-                <div class="mu-about-us-right">                            
-                  <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="video-size">             
+<<<<<<< HEAD
+                <div class="mu-about-us-right">
+                    <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="img-fluid" style="max-width: 100%;">
                 </div>
-              </div>
+            </div>
+=======
+    <div class="mu-about-us-right">
+        <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="img-fluid" style="max-width: 100%;">
+    </div>
+</div>
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
+
             </div>
           </div>
         </div>
@@ -533,7 +525,35 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
       </div>
     </div> 
   </section>
-  <!-- End features section --> 
+  <!-- End features section -->
+<<<<<<< HEAD
+  
+=======
+
+>>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
+  <div class="whatsapp-button">
+        <button id="open-button">&#x1F4AC;</button>
+        <div class="whatsapp-box" id="whatsapp-box">
+            <button class="close-button" id="close-button">&#x2715;</button>
+            <p>¡Bienvenido a Liceo Palestra!</p>
+            <p>¡Hola! ¿En qué podemos ayudarte?</p>
+            <a href="https://api.whatsapp.com/send?phone=9992414324" target="_blank">Contactanos por WhatsApp</a>
+        </div>
+    </div>
+
+    <script>
+        const openButton = document.getElementById('open-button');
+        const closeButton = document.getElementById('close-button');
+        const whatsappBox = document.getElementById('whatsapp-box');
+
+        openButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'block';
+        });
+
+        closeButton.addEventListener('click', () => {
+            whatsappBox.style.display = 'none';
+        });
+    </script>
 
    <!-- Start footer -->
   <footer id="mu-footer">
