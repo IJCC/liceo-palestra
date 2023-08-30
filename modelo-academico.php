@@ -157,7 +157,7 @@
                 <div class="mu-about-us-left">
                   <!-- Start Title -->
                   <div class="mu-title">
-                    <h2 class="title-modelo">MODELO ACADÉMICO</h2>              
+                    <h2 id="title-modelo">MODELO ACADÉMICO</h2>              
                   </div>
                   <!-- End Title -->
                   <p>En Liceo-Palestra, creamos y seguimos un modelo educativo progresivo, construyendo cada nivel sobre bases sólidas. 
@@ -166,7 +166,7 @@
                     en cada estudiante.</p>
                   <div class="mu-title">
                     <br>
-                  <h2 class="title-programa">NUESTROS PROGRAMAS</h2>              
+                  <h2>NUESTROS PROGRAMAS</h2>              
                   </div>
                   <p>Nuestros programas ofrecen una serie de ventajas notables. Mediante un enfoque progresivo y coherente brindamos a nuestros alumnos la oportunidad 
                     de desarrollar sus habilidades de manera sólida y gradual. Cada programa construye sobre la anterior, permitiendo que nuestros alumnos alcancen niveles 
@@ -213,7 +213,7 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/grado.png" data-toggle="modal" data-target="#exampleModal0"  width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/grado.png" data-toggle="modal" data-target="#exampleModal0"  width="85px" alt="img">
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal0" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
@@ -261,14 +261,15 @@
                 </div>
               </div>
             </div>
-                    <h4>PROMOCIÓN DE GRADO</h4>
-                    <p>Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
-                      surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
+                    <h4>Programa | PROMOCION DE  GRADOS</h4>
+                    <p>Ascenso Gradual en Artes Marciales: Forjando Trayectorias de Constancia y Crecimiento, 
+                      los cinturones trazan un sendero de superación. Cada grado impulsa habilidades y técnicas 
+                      específicas, asegurando un aprendizaje sólido. </p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/sparring.png" data-toggle="modal" data-target="#exampleModal" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/sparring.png" data-toggle="modal" data-target="#exampleModal" width="85px" alt="img">
                   <!-- Button trigger modal 
                   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
                     Launch demo modal
@@ -312,16 +313,18 @@
                 </div>
               </div>
             </div>
-                    <h4>TALLER DE SPARRING</h4>
-                    <p>El taller de sparring emerge como un programa esencial, diseñado para introducir a los alumnos 
-                       en el mundo del combate, analizar sus técnicas y realizar correcciones precisas. 
-                       Aquí, las instrucciones directas se ofrecen mientras los alumnos se entregan al sparring, 
-                       permitiendo una base sólida para ganar confianza en la aplicación de las técnicas adquiridas durante las clases regulares.</p>
+                    <h4>Programa | TALLER DE SPARRING</h4>
+                    <p>Nuestro programa, taller de sparring es un punto de inicio crucial. Aquí, se comienza a 
+                      sumergir a  los alumnos en el mundo del combate, analizando técnicas y refinando habilidades. 
+                      Ofrecemos instrucciones directas mientras practican sparring, en un ambiente controlado. 
+                      Construyendo confianza en la aplicación de las técnicas aprendidas en las clases regulares. 
+                      Es un espacio para perfeccionar, entender y ganar seguridad en cada movimiento, formando una 
+                      base sólida para enfrentar desafíos reales.</p>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal2" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal2" width="85px" alt="img">
                         <!-- Modal -->
                   <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
@@ -382,10 +385,12 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>CLUB DE LA PELEA</h4>
-                    <p>El Club de la Pelea tiene una misión clara: expandir las capacidades más allá de lo meramente combativo. 
-                      Si bien el enfoque radica en el dominio de las artes marciales, este programa va más allá al brindar 
-                      habilidades esenciales, desde el arte del coaching hasta el análisis crítico como jueces y referees. </p>
+                    <h4>Programa | CLUB DE LA PELEA</h4>
+                    <p>El  Club de la Pelea no solo se trata de combatir, sino de una experiencia completa. 
+                      Ofrecemos mucho más que peleas. Aquí, te sumergirás en el arte del  Coucheo, experimentarás 
+                      ser un referee, y tendrás la oportunidad de ser un juez en los combates. Además, aprenderás a 
+                      manejar la victoria y la derrota con igual entereza, 
+                      forjando un carácter resistente y maduro en cada desafío.</p>
               </div>
             </div>
 
@@ -397,7 +402,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/brikan.png" data-toggle="modal" data-target="#exampleModal3" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/brikan.png" data-toggle="modal" data-target="#exampleModal3" width="85px" alt="img">
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
@@ -433,18 +438,15 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>SELECCIÓN BRIKAN</h4>
-                    <p>La selección de peleadores ocupa un rol crucial e imprescindible, 
-                      ya que recae sobre ellos la responsabilidad representativa, competitiva y de rendimiento para 
-                      la academia, institución o escuela que respaldan. Ingresar a la selección de peleadores no es 
-                      tarea sencilla, ya que implica una evaluación minuciosa de diversos factores en cada candidato, 
-                      incluyendo el tiempo de entrenamiento, habilidades técnicas y condición física, 
-                      entre otros aspectos cruciales.</p>
+                    <h4>Programa | SELECCIÓN BRIKAN</h4>
+                    <p>Nuestra selección de peleadores es un pilar esencial en la academia, representando 
+                      habilidades excepcionales y compromiso. Formar parte de la selección BRIKAN implica un 
+                      intenso programa de entrenamiento diseñado específicamente para el combate.</p>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
-                  <img class="media-object" src="assets/img/modelo/kids.png" data-toggle="modal" data-target="#exampleModal4" width="75px" alt="img">
+                  <img class="media-object" src="assets/img/modelo/kids.png" data-toggle="modal" data-target="#exampleModal4" width="85px" alt="img">
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
@@ -497,12 +499,11 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>CONEXIÓN KIDS</h4>
-                    <p>En un mundo que avanza a pasos agigantados, donde la tecnología nos conecta de formas nuevas 
-                      pero también nos distancia, surge una necesidad apremiante: cultivar la empatía y la calidad 
-                      humana en las generaciones más jóvenes. Este desafío es el motor detrás de la creación del 
-                      programa "Conexión Kids", una iniciativa poderosa que utiliza las artes marciales como vehículo 
-                      para fomentar relaciones auténticas y fortalecer el lazo intergeneracional.</p>
+                    <h4>Programa | CONEXIÓN KIDS</h4>
+                    <p>Une a los adolescentes y niños a través de las artes marciales. 
+                      Los adolescentes comparten habilidades y valores, guiando a los más jóvenes en 
+                      su camino marcial y en la vida. Este puente generacional construye empatía y responsabilidad, 
+                      enriqueciendo tanto la comunidad de artes marciales como la sociedad en general.</p>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
