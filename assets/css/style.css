@@ -101,6 +101,10 @@ body {
   -webkit-transform: scale(1.1); /* Safari 3-8 */
   transform: scale(1.1); 
 }
+.video-size {
+  width: 100%;
+  height: auto;
+}
 
 
 .no-padding {

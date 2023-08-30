@@ -186,9 +186,7 @@
               </div>
               <div class="col-lg-6 col-md-6">
                 <div class="mu-about-us-right">                            
-                <a id="mu-abtus-video" href="https://www.youtube.com/embed/HN3pm9qYAUs" target="mutube-video">
-                  <img src="assets/img/about-us.jpg" alt="img">
-                </a>                
+                  <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="video-size">             
                 </div>
               </div>
             </div>
