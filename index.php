@@ -230,7 +230,10 @@
                   <article class="mu-blog-single-item">
                     <figure class="mu-blog-single-img">
                     <div class="embed-responsive embed-responsive-16by9">
-                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/j0bZvo8LcJI?si=wTt2ZqAgs_Gq3jcG" 
+                    title="YouTube video player" frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen></iframe>
                     </div>
                     <figcaption class="mu-blog-caption">
                         <h5>"Hacemos Nuestra Academia Aún Más Divertida"</h5>
@@ -245,7 +248,10 @@
                   <article class="mu-blog-single-item">
                   <figure class="mu-blog-single-img">
                   <div class="embed-responsive embed-responsive-16by9">
-                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/YKgdVSmMwjo?si=zQSfG89WBnu5SJhl" 
+                    title="YouTube video player" frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen></iframe>
                     </div>
                       <figcaption class="mu-blog-caption">
                         <h5>"Su Voz Cuenta: Mejorando Juntos Nuestra Experiencia"</h5>
@@ -260,11 +266,14 @@
                   <article class="mu-blog-single-item">
                   <figure class="mu-blog-single-img">
                   <div class="embed-responsive embed-responsive-16by9">
-                      <iframe id="mu-abtus-video" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" target="mutube-video" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/YKgdVSmMwjo?si=zQSfG89WBnu5SJhl" 
+                    title="YouTube video player" frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen></iframe>
                     </div>
                       <figcaption class="mu-blog-caption">
-                      <h5>"Pendiente"</h5>
-                      <h4>Palestra | Adultos</h4>
+                      <h5>"Su Voz Cuenta: Mejorando Juntos Nuestra Experiencia"</h5>
+                        <h4>Palestra | Adolescentes</h4>
                       </figcaption>                      
                     </figure>
                     <div class="mu-blog-meta">
