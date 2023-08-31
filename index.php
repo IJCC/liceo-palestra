@@ -173,7 +173,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12">
-        <div class="panel panel-default">
+        <div class="panel panel-default" id="panel_principal">
             <div class="panel-body">
           <div class="mu-features-area">
             <!-- Start Title -->
@@ -724,14 +724,32 @@
     </div>
   </section>
   <!-- End from blog -->
-<<<<<<< HEAD
+
+  <section id="mu-features">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          <br>
+          <br>
+          <br>
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="150px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>  
+        </div>
+      </div>
+    </div> 
+  </section>
+  <!-- End features section -->
   
   <div class="whatsapp-button">
-=======
-</head>
-
-    <div class="whatsapp-button">
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
         <button id="open-button">&#x1F4AC;</button>
         <div class="whatsapp-box" id="whatsapp-box">
             <button class="close-button" id="close-button">&#x2715;</button>

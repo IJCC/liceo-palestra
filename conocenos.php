@@ -113,7 +113,6 @@
   <!-- End menu -->
   <!-- Start Slider -->
   <section id="mu-slider">
-<<<<<<< HEAD
   <div class="mu-slider-img">
     <figure>
         <div class="slider-image-container">
@@ -123,25 +122,6 @@
 </div>
 
 </section>
-=======
-    <!-- Start single slider item -->
-    <div class="mu-slider-single">
-      <div class="mu-slider-img">
-        <figure>
-          <img src="assets/img/slider/modelo2.jpg" alt="img">
-        </figure>
-      </div>
-      <div class="mu-slider-content">
-        <h4></h4>
-        <!--<span></span>-->
-        <h2></h2>
-        <p></p>
-        <!--<a href="#" class="mu-read-more-btn">Read More</a>-->
-      </div>
-    </div> 
-  </section>
-  <!-- End Slider -->
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
@@ -212,9 +192,6 @@
                               Contacto Completo del Estado de Yucatán, puedes convertirte en Instructor, potencialmente 
                               trabajando en diversas instituciones deportivas o academias.</p>
                           </blockquote>
-                          <div class="centrado">
-                            <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
-                          </div>
                         </div>
                       </div> 
                     </div>                                   
@@ -270,31 +247,31 @@
      </div>
    </div>
  </section>
- 
- <div class="whatsapp-button">
-        <button id="open-button">&#x1F4AC;</button>
-        <div class="whatsapp-box" id="whatsapp-box">
-            <button class="close-button" id="close-button">&#x2715;</button>
-            <p>¡Bienvenido a Liceo Palestra!</p>
-            <p>¡Hola! ¿En qué podemos ayudarte?</p>
-            <a href="https://api.whatsapp.com/send?phone=9992414324" target="_blank">Contactanos por WhatsApp</a>
+
+ <section id="mu-features">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          <br>
+          <br>
+          <br>
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="150px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>  
         </div>
-    </div>
-
-    <script>
-        const openButton = document.getElementById('open-button');
-        const closeButton = document.getElementById('close-button');
-        const whatsappBox = document.getElementById('whatsapp-box');
-
-        openButton.addEventListener('click', () => {
-            whatsappBox.style.display = 'block';
-        });
-
-        closeButton.addEventListener('click', () => {
-            whatsappBox.style.display = 'none';
-        });
-    </script>
-
+      </div>
+    </div> 
+  </section>
+  <!-- End features section -->
+ 
  <div class="whatsapp-button">
         <button id="open-button">&#x1F4AC;</button>
         <div class="whatsapp-box" id="whatsapp-box">

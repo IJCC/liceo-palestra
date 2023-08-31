@@ -115,7 +115,6 @@
   <!-- End menu -->
   <!-- Start Slider -->
   <section id="mu-slider">
-<<<<<<< HEAD
   <div class="mu-slider-img">
     <figure>
         <div class="slider-image-container">
@@ -125,25 +124,6 @@
 </div>
 
 </section>
-=======
-    <!-- Start single slider item -->
-    <div class="mu-slider-single">
-      <div class="mu-slider-img">
-        <figure>
-          <img src="assets/img/slider/modelo2.jpg" alt="img">
-        </figure>
-      </div>
-      <div class="mu-slider-content">
-        <h4></h4>
-        <!--<span></span>-->
-        <h2></h2>
-        <p></p>
-        <!--<a href="#" class="mu-read-more-btn">Read More</a>-->
-      </div>
-    </div> 
-  </section>
-  <!-- End Slider -->
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <section id="mu-course-content">
    <div class="container">
      <div class="row">
@@ -532,10 +512,6 @@
                     <h3 class="title-sidebar-service">Horarios</h3>
                     <p class="paragraph-sidebar-service">Texto pendiente.</p>
                   </div>
-                  <!-- end single sidebar -->
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <!-- end single sidebar -->
                 </aside>
                 <!-- / end sidebar -->
              </div>
@@ -545,6 +521,30 @@
      </div>
    </div>
  </section>
+
+ <section id="mu-features">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          <br>
+          <br>
+          <br>
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="150px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>  
+        </div>
+      </div>
+    </div> 
+  </section>
+  <!-- End features section -->
  
  <div class="whatsapp-button">
         <button id="open-button">&#x1F4AC;</button>

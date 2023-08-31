@@ -115,23 +115,18 @@
   </section>
   <!-- End menu -->
   <!-- Start Slider -->
-  <section id="mu-slider">
+  <section id="mu-slider" class="mb-4">
   <div class="mu-slider-img">
     <figure>
         <div class="slider-image-container">
-            <img src="assets/img/slider/modelo2.jpg" alt="img" class="img-fluid">
+            <img src="assets/img/slider/encabezado_nuevo.jpg" alt="img" class="img-fluid">
         </div>
     </figure>
 </div>
 
 </section>
-<<<<<<< HEAD
-=======
-
-  <!-- End Slider -->
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
  <!-- Start about us -->
- <section id="mu-about-us">
+ <section id="mu-about-us" class="">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -148,13 +143,6 @@
                     Nuestros programas guiados te llevan a través de un viaje continuo en las artes marciales, desde los fundamentos hasta técnicas avanzadas. 
                     Con instructores altamente capacitados, te brindamos un entrenamiento físico y personal único, cultivando confianza, autodisciplina y autodeterminación 
                     en cada estudiante.</p>
-                  <div class="mu-title">
-                    <br>
-                  <h2>NUESTROS PROGRAMAS</h2>              
-                  </div>
-                  <p>Nuestros programas ofrecen una serie de ventajas notables. Mediante un enfoque progresivo y coherente brindamos a nuestros alumnos la oportunidad 
-                    de desarrollar sus habilidades de manera sólida y gradual. Cada programa construye sobre la anterior, permitiendo que nuestros alumnos alcancen niveles 
-                    de destreza y confianza en las artes marciales.</p>
                   <ul>
                   <blockquote>
                     <p class="title-negrita">Fase de Aprendizaje.</p>
@@ -169,18 +157,16 @@
                 </div>
               </div>
               <div class="col-lg-6 col-md-6">
-<<<<<<< HEAD
                 <div class="mu-about-us-right">
                     <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="img-fluid" style="max-width: 100%;">
                 </div>
             </div>
-=======
-    <div class="mu-about-us-right">
-        <img src="assets/img/kids-modelo-academico.jpg" alt="img" class="img-fluid" style="max-width: 100%;">
-    </div>
-</div>
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
-
+            <div class="mu-title">
+                    <br>
+                  <h2>NUESTROS PROGRAMAS</h2>              
+                  <p>Nuestros programas ofrecen una serie de ventajas notables. Mediante un enfoque progresivo y coherente brindamos a nuestros alumnos la oportunidad 
+                    de desarrollar sus habilidades de manera sólida y gradual. Cada programa construye sobre la anterior, permitiendo que nuestros alumnos alcancen niveles 
+                    de destreza y confianza en las artes marciales.</p>    
             </div>
           </div>
         </div>
@@ -203,13 +189,16 @@
               <div class="row">
                 <div class="col-lg-4 col-md-12">
                   <div class="mu-single-feature">
+                    <center>
                   <img class="media-object" src="assets/img/modelo/grado.png" data-toggle="modal" data-target="#exampleModal0"  width="85px" alt="img">
+                  </center>
                   <!-- Modal -->
                   <div class="modal fade" id="exampleModal0" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Exámenes Promoción de Grado</h5>
+                        <img class="media-object centrada" src="assets/img/modelo/promocion.png" width="50px" alt="img">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -251,7 +240,7 @@
                 </div>
               </div>
             </div>
-                    <h4>Programa | PROMOCION DE  GRADOS</h4>
+            <h4>Programa | <strong>PROMOCION DE GRADOS</strong></h4>
                     <p>Ascenso Gradual en Artes Marciales: Forjando Trayectorias de Constancia y Crecimiento, 
                       los cinturones trazan un sendero de superación. Cada grado impulsa habilidades y técnicas 
                       específicas, asegurando un aprendizaje sólido. </p>
@@ -259,7 +248,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
+                  <center>
                   <img class="media-object" src="assets/img/modelo/sparring.png" data-toggle="modal" data-target="#exampleModal" width="85px" alt="img">
+                  </center>
                   <!-- Button trigger modal 
                   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
                     Launch demo modal
@@ -270,6 +261,7 @@
                       <div class="modal-content">
                         <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Taller de Sparring</h5>
+                        <img class="media-object centrada" src="assets/img/modelo/Taller_Sparring.png" width="50px" alt="img">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -303,7 +295,7 @@
                 </div>
               </div>
             </div>
-                    <h4>Programa | TALLER DE SPARRING</h4>
+                    <h4>Programa | <strong>TALLER DE SPARRING</strong></h4>
                     <p>Nuestro programa, taller de sparring es un punto de inicio crucial. Aquí, se comienza a 
                       sumergir a  los alumnos en el mundo del combate, analizando técnicas y refinando habilidades. 
                       Ofrecemos instrucciones directas mientras practican sparring, en un ambiente controlado. 
@@ -314,13 +306,15 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <div class="mu-single-feature">
+                  <center>
                   <img class="media-object" src="assets/img/modelo/club_de_la_pelea.png" data-toggle="modal" data-target="#exampleModal2" width="85px" alt="img">
-                        <!-- Modal -->
+                  </center>   <!-- Modal -->
                   <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Club de la Pelea</h5>
+                        <img class="media-object centrada" src="assets/img/modelo/pelea.png" width="50px" alt="img">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -375,7 +369,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>Programa | CLUB DE LA PELEA</h4>
+                    <h4>Programa | <strong>CLUB DE LA PELEA</strong></h4>
                     <p>El  Club de la Pelea no solo se trata de combatir, sino de una experiencia completa. 
                       Ofrecemos mucho más que peleas. Aquí, te sumergirás en el arte del  Coucheo, experimentarás 
                       ser un referee, y tendrás la oportunidad de ser un juez en los combates. Además, aprenderás a 
@@ -392,13 +386,15 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
+                  <center>
                   <img class="media-object" src="assets/img/modelo/brikan.png" data-toggle="modal" data-target="#exampleModal3" width="85px" alt="img">
-                  <!-- Modal -->
+                  </center><!-- Modal -->
                   <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Selección Brikan</h5>
+                        <img class="media-object centrada" src="assets/img/modelo/seleccion_brikan.png" width="50px" alt="img">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -428,7 +424,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>Programa | SELECCIÓN BRIKAN</h4>
+                    <h4>Programa | <strong>SELECCIÓN BRIKAN</strong></h4>
                     <p>Nuestra selección de peleadores es un pilar esencial en la academia, representando 
                       habilidades excepcionales y compromiso. Formar parte de la selección BRIKAN implica un 
                       intenso programa de entrenamiento diseñado específicamente para el combate.</p>
@@ -436,13 +432,15 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                 </div>
                 <div class="col-lg-3 col-md-6">
                   <div class="mu-single-feature">
+                  <center>
                   <img class="media-object" src="assets/img/modelo/kids.png" data-toggle="modal" data-target="#exampleModal4" width="85px" alt="img">
-                  <!-- Modal -->
+                  </center><!-- Modal -->
                   <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">Conexión Kids</h5>
+                        <img class="media-object centrada" src="assets/img/modelo/Conexion_kids.png" width="50px" alt="img">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -489,7 +487,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   </div>
                 </div>
                 </div>
-                    <h4>Programa | CONEXIÓN KIDS</h4>
+                    <h4>Programa | <strong>CONEXIÓN KIDS</strong></h4>
                     <p>Une a los adolescentes y niños a través de las artes marciales. 
                       Los adolescentes comparten habilidades y valores, guiando a los más jóvenes en 
                       su camino marcial y en la vida. Este puente generacional construye empatía y responsabilidad, 
@@ -509,11 +507,39 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
     </div>
   </section>
   <!-- End features section -->
+
+  <div class="mu-title">
+                    <br>
+                  <h2>Entrenamientos Especiales</h2>              
+                  <br>
+                  <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex align-items-center justify-content-center">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6eCw6gHEM-Y?si=-UBQ-tU-_tyEzlL1"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  </div>
   
   <section id="mu-features">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12">
+        <br>
+          <br>
+          <br>
+          <br>
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="150px" alt="Imagen" class="img-fluid">
+          </div>  
           <div class="centrado">
               <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
           </div>
@@ -526,11 +552,7 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
     </div> 
   </section>
   <!-- End features section -->
-<<<<<<< HEAD
   
-=======
-
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
   <div class="whatsapp-button">
         <button id="open-button">&#x1F4AC;</button>
         <div class="whatsapp-box" id="whatsapp-box">

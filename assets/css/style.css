@@ -112,11 +112,10 @@ body {
       max-height: 500px; /* Puedes ajustar esta altura según tus necesidades */
   }
 }
+#panel_principal{
+  margin-top: 30px;
+}
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
 .whatsapp-button {
   position: fixed;
   bottom: 20px;
@@ -161,9 +160,7 @@ body {
   width: 300px;
 }
 
-
 .slider-image-container {
-<<<<<<< HEAD
     max-width: 100%;
     overflow: hidden;
 }
@@ -173,18 +170,11 @@ body {
     height: auto;
     object-fit: cover;
 }
-=======
-  max-width: 100%;
-  overflow: hidden;
-}
 
-.slider-image-container img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
+.centrada{
+  display: block;
+  margin: 0 auto;
 }
-
->>>>>>> 605c5d23cb37b01cae740c87615223c2a9f6c90a
 
 
 .no-padding {
@@ -603,7 +593,7 @@ img {
   display: inline;
   float: left;
   width: 100%;
-  padding: 100px 0;
+  padding: 20px 0;
 }
 #mu-about-us .mu-about-us-area {
   display: inline;
@@ -754,7 +744,7 @@ img {
 #mu-features {
   display: inline;
   float: left;
-  padding: 35px 0;
+  
   width: 100%;
 }
 #mu-features .mu-features-area {
