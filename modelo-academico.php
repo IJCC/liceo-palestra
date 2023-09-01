@@ -102,7 +102,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li class="active"><a href="index.php">Inicio</a></li>            
+            <li class=""><a href="index.php">Inicio</a></li>            
             </li>                 
             <li class=""><a href="eventos.php">Eventos</a></li>            
             </li>             
@@ -196,43 +196,45 @@
                   <div class="modal fade" id="exampleModal0" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
-                        <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Exámenes Promoción de Grado</h5>
-                        <img class="media-object centrada" src="assets/img/modelo/promocion.png" width="50px" alt="img">
+                      <div class="modal-header">
+                        <div class="row gx-1 justify-content-center align-items-center">
+      <div class="col-md-4">
+        <img class="media-object centrada" src="assets/img/modelo/promocion.png" width="50px" style="margin-right: 15px;" alt="img">
+      </div>
+      <div class="col-md-4">
+        <h5 class="modal-title text-center">Exámenes Promoción de Grado</h5>
+      </div>
+    </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
                       </div>
                     <div class="modal-body">
-                          <p>Proceso de Ascenso en los Grados de Artes Marciales: Un Camino de Constancia y Compromiso</p>
-                          <p>Dentro de un plazo promedio de 3 a 4 meses desde que el alumno inicia su entrenamiento activo, 
-                            surge la posibilidad de avanzar en su camino de desarrollo a través de las promociones de grado.</p>
-                          <p>Los grados, que se distinguen por colores y son representados por cinturones, conforman un sistema 
-                            que guía el progreso del alumno:</p>
-                          <p>En resumen, el taller de sparring es el punto de partida esencial para comprender 
-                          el combate, perfeccionar las técnicas y ganar confianza. En contraste, 
-                          el Club de la Pelea se centra en proporcionar a los alumnos una plataforma donde pueden 
-                          ejercer su autonomía y aplicar sus habilidades en situaciones más dinámicas y desafiantes. 
-                          Ambos programas son valiosos, contribuyendo de manera única al crecimiento y desarrollo de 
-                          los alumnos en las artes marciales.</p>
-                          <ol>
-                              <li>Blanco</li>
-                              <li>Amarillo</li>
-                              <li>Naranja</li>
-                              <li>Verde</li>
-                              <li>Azul</li>
-                              <li>Azul Avanzado</li>
-                              <li>Púrpura</li>
-                              <li>Rojo</li>
-                              <li>Rojo Avanzado</li>
-                              <li>Rojo Negro</li>
-                              <li>Negro</li>
-                            </ol>
-                          <p>Los alumnos más jóvenes, conocidos como "Kids", tienen sus propias promociones intermedias. 
-                          Estas aplican solo dentro del rango de edad de 7 a 12 años y siguen un esquema similar al anterior.</p>
-                          <p>Cada grado lleva consigo técnicas específicas y a medida que se avanza, 
-                          estas se vuelven más complejas. Cabe mencionar que cada grado también tiene niveles intermedios, 
-                          que se asignan según el caso.</p>  
+                          <p>Esta etapa es fundamental para adquirir los conocimientos generales necesarios en el progreso gradual del alumno. 
+                            Se compone de diferentes niveles, cada uno de ellos con sus respectivos grados representados por cinturones de colores específicos. 
+                            Cada grado se caracteriza por la enseñanza y dominio de técnicas particulares que deben ser aprendidas y dominadas por el alumno. 
+                            Es en esta etapa donde se sientan las bases sólidas para el avance continuo en las artes marciales.</p>
+                          <img src="assets/img/modelo/modelo_academico_modal.jpg" class="img-fluid" alt="Imagen rectangular" style="width: 100%; max-height: 100%;">
+                          <p>Para avanzar de grado, se deben cumplir requisitos específicos. Esto incluye entrenar durante 
+                            un periodo determinado y demostrar habilidades físicas y técnicas adecuadas. Después, se realiza un examen 
+                            físico-tecnico. Si el alumno aprueba, recibirá un certificado del grado obtenido y un cinturón correspondiente. 
+                            Estas certificaciones son avaladas por la Asociación de Artes Marciales Mixtas de Contacto Completo del Edo. de Yucatán (AAMMCCY).</p>
+  <section id="mu-features">
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="80px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
                     </div>
                   <div class="modal-footer">
                     <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
@@ -251,17 +253,19 @@
                   <center>
                   <img class="media-object" src="assets/img/modelo/sparring.png" data-toggle="modal" data-target="#exampleModal" width="85px" alt="img">
                   </center>
-                  <!-- Button trigger modal 
-                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-                    Launch demo modal
-                  </button> -->
                         <!-- Modal -->
                   <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
-                        <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Taller de Sparring</h5>
-                        <img class="media-object centrada" src="assets/img/modelo/Taller_Sparring.png" width="50px" alt="img">
+                      <div class="modal-header">
+                        <div class="row gx-1 justify-content-center align-items-center">
+      <div class="col-md-4">
+        <img class="media-object centrada" src="assets/img/modelo/Taller_Sparring.png" width="50px" style="margin-right: 15px;" alt="img">
+      </div>
+      <div class="col-md-4">
+        <h5 class="modal-title text-center">Taller de Sparring</h5>
+      </div>
+    </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -288,6 +292,22 @@
                           ejercer su autonomía y aplicar sus habilidades en situaciones más dinámicas y desafiantes. 
                           Ambos programas son valiosos, contribuyendo de manera única al crecimiento y desarrollo de 
                           los alumnos en las artes marciales.</p>
+                          <section id="mu-features">
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="80px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
                     </div>
                   <div class="modal-footer">
                     <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
@@ -312,9 +332,15 @@
                   <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
-                        <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Club de la Pelea</h5>
-                        <img class="media-object centrada" src="assets/img/modelo/pelea.png" width="50px" alt="img">
+                      <div class="modal-header">
+                        <div class="row gx-1 justify-content-center align-items-center">
+      <div class="col-md-4">
+        <img class="media-object centrada" src="assets/img/modelo/pelea.png" width="50px" style="margin-right: 15px;" alt="img">
+      </div>
+      <div class="col-md-4">
+        <h5 class="modal-title text-center">Club de la Pelea</h5>
+      </div>
+    </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -362,6 +388,22 @@ Resultados: Cada combate tendrá un ganador declarado o empate. Esta decisión s
                           <p>Solicitar tu Rol: Alumnos con grados pueden solicitar roles específicos previo al evento. Los roles están limitados para cada ocasión.
 
 En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino que también cultiva cualidades como liderazgo, resiliencia y toma de decisiones bajo presión. Este programa representa una valiosa oportunidad para elevarse como peleador y como individuo, abrazando cada desafío en el camino. ¡Todos los alumnos son bienvenidos a esta aventura de crecimiento y aprendizaje constante!</p>
+<section id="mu-features">
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="80px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
                     </div>
                   <div class="modal-footer">
                     <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
@@ -393,10 +435,14 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
                         <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Selección Brikan</h5>
-                        <img class="media-object centrada" src="assets/img/modelo/seleccion_brikan.png" width="50px" alt="img">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
+                        <div class="row gx-1 justify-content-center align-items-center">
+      <div class="col-md-4">
+        <img class="media-object centrada" src="assets/img/modelo/seleccion_brikan.png" width="50px" style="margin-right: 15px;" alt="img">
+      </div>
+      <div class="col-md-4">
+        <h5 class="modal-title text-center">Selección Brikan</h5>
+      </div>
+    </div>
                         </button>
                       </div>
                     <div class="modal-body">
@@ -417,6 +463,22 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                             marcando el inicio de un viaje de preparación intenso y enfocado en el desarrollo de 
                             habilidades. El primer campamento, que transcurrió desde el 8 de septiembre de 2021 hasta 
                             el 2 de mayo de 2022, se ha completado satisfactoriamente.</p>
+                            <section id="mu-features">
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="80px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
                     </div>
                   <div class="modal-footer">
                     <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>
@@ -438,9 +500,16 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                   <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog" role="document">
                       <div class="modal-content">
-                        <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Conexión Kids</h5>
-                        <img class="media-object centrada" src="assets/img/modelo/Conexion_kids.png" width="50px" alt="img">
+                      <div class="modal-header">
+                        
+                      <div class="row gx-1 justify-content-center align-items-center">
+      <div class="col-md-4">
+        <img class="media-object centrada" src="assets/img/modelo/Conexion_kids.png" width="50px" style="margin-right: 15px;" alt="img">
+      </div>
+      <div class="col-md-4">
+        <h5 class="modal-title text-center">Conexión Kids</h5>
+      </div>
+    </div>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -480,6 +549,22 @@ En conclusión, el Club de la Pelea no solo mejora habilidades marciales, sino q
                               responsabilidad hacia los demás. En un mundo donde la conexión real es a menudo eclipsada 
                               por la virtualidad, "Conexión Kids" nos recuerda que el auténtico poder radica en nuestras 
                               manos, y en nuestros corazones.</p>
+                              <section id="mu-features">
+    <div class="">
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+        <br>
+          
+          <div class="centrado">
+              <img src="assets/img/palestra.jpg" width="80px" alt="Imagen" class="img-fluid">
+          </div>  
+          <div class="centrado">
+              <a class="title-firmes-y-dignos">FIRMES Y DIGNOS</a>
+          </div>  
+        </div>
+      </div>
+    </div> 
+  </section>
                     </div>
                   <div class="modal-footer">
                     <button type="button" class="btn" id="btnmodal" data-dismiss="modal">Cerrar</button>

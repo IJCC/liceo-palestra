@@ -103,7 +103,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li class="active"><a href="index.php">Inicio</a></li>                             
+            <li class=""><a href="index.php">Inicio</a></li>                             
             <li class=""><a href="eventos.php">Eventos</a></li>                         
             <li class=""><a href="equipos.php">Equipo de Entrenamiento</a></li>             
           </ul>                     
@@ -266,14 +266,12 @@
                   <article class="mu-blog-single-item">
                   <figure class="mu-blog-single-img">
                   <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/YKgdVSmMwjo?si=zQSfG89WBnu5SJhl" 
-                    title="YouTube video player" frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                    allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/XRXwuw7-Cnc?si=ttUbvVuI2KUPvK95" 
+                  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  allowfullscreen></iframe>
                     </div>
                       <figcaption class="mu-blog-caption">
-                      <h5>"Su Voz Cuenta: Mejorando Juntos Nuestra Experiencia"</h5>
-                        <h4>Palestra | Adolescentes</h4>
+                      <h5>"¡La diversión en la academia no para de crecer!"</h5>
                       </figcaption>                      
                     </figure>
                     <div class="mu-blog-meta">

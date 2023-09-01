@@ -46,6 +46,7 @@
 
     <!-- Start header  -->
     <header id="mu-header">
+
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12">
@@ -101,7 +102,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li class="active"><a href="index.php">Inicio</a></li>                           
+            <li class=""><a href="index.php">Inicio</a></li>                           
             <li class=""><a href="eventos.php">Eventos</a></li>
             <li class=""><a href="equipos.php">Equipo de Entrenamiento</a></li>                         
             <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
@@ -116,26 +117,21 @@
   <div class="mu-slider-img">
     <figure>
         <div class="slider-image-container">
-            <img src="assets/img/slider/modelo2.jpg" alt="img" class="img-fluid">
+            <img src="assets/img/slider/encabezado_conocenos.jpg" alt="img" class="img-fluid">
         </div>
     </figure>
 </div>
-
 </section>
- <section id="mu-course-content">
+
+ <section id="mu-about-us" class="">
    <div class="container">
-     <div class="row">
-       <div class="col-md-12">
-         <div class="mu-course-content-area">
-            <div class="row">
-              <div class="col-md-9">
                 <!-- start course content container -->
-                <div class="mu-course-container mu-course-details">
+                <div class="">
                   <div class="row">
                     <div class="col-md-12">
                       <div class="mu-latest-course-single">
                         <figure class="mu-latest-course-img">
-                          <a><img src="assets/img/portadaface2.jpg" alt="img"></a>
+                          <a><img src="assets/img/conocenos_palestra.png" alt="img"></a>
                         </figure>
                         <div class="mu-latest-course-single-content">
                           <h2><a href="conocenos.php">Academia Liceo-Palestra</a></h2>
@@ -155,6 +151,8 @@
                              Impartimos conocimiento de manera responsable y aseguramos la preservación de nuestro
                              distintivo toque humano.</p>
                           <br>
+                           <!-- Agrega la imagen rectangular al final del div -->
+                          <img src="assets/img/asociacion.jpg" class="img-fluid" alt="" style="width: 100%; max-height: 100%;">
 
                           <h4>Beneficios de Ingresar a Liceo-Palestra</h4>
                           <blockquote>
@@ -199,48 +197,8 @@
                 </div>
                 <!--end start related course item -->
               </div>
-              <div class="col-md-3">
-                <!-- start sidebar -->
-                <aside class="mu-sidebar">
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                  <a href="conocenos.php">
-                  <img class="img-single-service zoom-sidebar" src="assets/img/conocenos.png" width="70px"  alt="logo">
-                  </a>
-                    <h3 class="title-sidebar-service">Conócenos</h3>
-                    <p class="paragraph-sidebar-service">Somos más que una academia, somos una pasión convertida en realidad.</p>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar" style="background-color: #000;">
-                  <a href="valores.php">
-                  <img class="img-single-service zoom-sidebar" src="assets/img/valores.png" width="70px"  alt="logo">
-                  </a>
-                  <h3 class="title-sidebar-service">Valores</h3>
-                  <p class="paragraph-sidebar-service">Nuestros valores son la base de todo lo que hacemos.</p>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                  <a href="modelo-academico.php">
-                  <img class="img-single-service zoom-sidebar" src="assets/img/modelo.png" width="70px"  alt="logo">
-                  </a>
-                    <h3 class="title-sidebar-service">Modelo Académico</h3>
-                    <p class="paragraph-sidebar-service">Nuestro modelo académico se basa en una combinación de pasión y compromiso.</p>
-                  </div>
-                  <!-- end single sidebar -->
-                  <!-- start single sidebar -->
-                  <div class="mu-single-sidebar">
-                  <a href="horarios.php">
-                  <img class="img-single-service zoom-sidebar" src="assets/img/modelo.png" width="70px"  alt="logo">
-                  </a>
-                    <h3 class="title-sidebar-service">Horarios</h3>
-                    <p class="paragraph-sidebar-service">Texto pendiente.</p>
-                  </div>
-                  <!-- end single sidebar -->
-                </aside>
-                <!-- / end sidebar -->
-             </div>
+
+              
            </div>
          </div>
        </div>

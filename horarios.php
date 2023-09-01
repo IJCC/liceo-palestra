@@ -101,7 +101,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li class="active"><a href="index.php">Inicio</a></li>                           
+            <li class=""><a href="index.php">Inicio</a></li>                           
             <li class=""><a href="eventos.php">Eventos</a></li>
             <li class=""><a href="equipos.php">Equipo de Entrenamiento</a></li>                         
             <!--<li><a href="#" id="mu-search-icon"><i class="fa fa-search"></i></a></li>--> 
